@@ -1,0 +1,22 @@
+# Dev-only image for testing feedmint's dynamic (Playwright) tier locally.
+# feedmint has NO production deployment — this exists purely so selector
+# discovery and `build.py` runs happen in a throwaway container instead of
+# polluting the host with Chromium's system libraries.
+#
+#   docker build -f Dockerfile.dev -t feedmint-dev .
+#   docker run --rm -it -v "$PWD":/app feedmint-dev python build.py --source antigravity
+#
+# The base image ships Chromium + matching Playwright + all OS deps, so we
+# only add the pure-Python requirements. The pinned tag matches requirements.txt
+# (playwright>=1.60) so the bundled browser and the pip package agree.
+FROM mcr.microsoft.com/playwright/python:v1.60.0-noble
+
+WORKDIR /app
+
+# Install everything except Playwright itself (already in the base image and
+# satisfies the >=1.60 floor, so pip leaves it untouched).
+COPY requirements.txt .
+RUN pip install --no-cache-dir --break-system-packages -r requirements.txt
+
+# Source is bind-mounted at run time (-v "$PWD":/app) for live editing.
+CMD ["bash"]

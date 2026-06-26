@@ -1,0 +1,102 @@
+name: Mint feeds
+
+# Regenerate every feeds/<slug>.xml from sources.yml and commit only what changed.
+#
+# Design notes:
+#   - The matrix is derived from sources.yml at run time, so adding a source is
+#     one entry there — never a workflow edit.
+#   - fail-fast is off: a source that yields zero items fails ONLY its own job
+#     (the SCOPE resilience rule), leaving every other feed to build normally.
+#   - Each build uploads its feed as an artifact; a single commit job collects
+#     the successful ones and commits once. A failed source uploads nothing, so
+#     its last-good committed feed is left untouched.
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # 06:17 UTC daily — off the hour to be a polite neighbour
+  workflow_dispatch: {}
+
+# Never let two runs push to the same branch at once.
+concurrency:
+  group: mint-feeds
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    outputs:
+      slugs: ${{ steps.list.outputs.slugs }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version-file: .python-version
+      - name: Build slug matrix from sources.yml
+        id: list
+        run: |
+          pip install --quiet pyyaml
+          python - <<'PY'
+          import json, os, yaml
+          data = yaml.safe_load(open("sources.yml")) or {}
+          slugs = [s["slug"] for s in data.get("sources", [])]
+          assert slugs, "no sources defined in sources.yml"
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write("slugs=" + json.dumps(slugs) + "\n")
+          print("matrix slugs:", slugs)
+          PY
+
+  build:
+    needs: discover
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false # one bad source must not cancel the others
+      matrix:
+        slug: ${{ fromJson(needs.discover.outputs.slugs) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version-file: .python-version
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Install Chromium (dynamic tier)
+        run: python -m playwright install --with-deps chromium
+      - name: Build feed
+        run: python build.py --source "${{ matrix.slug }}"
+      - name: Upload feed artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: feed-${{ matrix.slug }}
+          path: feeds/${{ matrix.slug }}.xml
+          if-no-files-found: error
+          retention-days: 7
+
+  commit:
+    needs: build
+    if: always() # commit the feeds that succeeded even if some sources failed
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect built feeds
+        uses: actions/download-artifact@v4
+        with:
+          pattern: feed-*
+          path: feeds
+          merge-multiple: true
+      - name: Commit changed feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feeds/
+          if git diff --staged --quiet; then
+            echo "No feed changes to commit."
+          else
+            git commit -m "feeds: update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

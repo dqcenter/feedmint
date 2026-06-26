@@ -1,0 +1,45 @@
+# feedmint sources — one entry per "page but no RSS" site.
+#
+# Adding a feed = adding one entry here. The build script reads this file,
+# runs the right scraper tier, and emits feeds/<slug>.xml (RSS 2.0).
+#
+# Fields
+#   slug        : output filename (feeds/<slug>.xml) + matrix id. [required]
+#   tier        : static | dynamic                                 [required]
+#                   static  — SSR/plain HTML (httpx + selectolax)
+#                   dynamic — JS-rendered (Playwright headless Chromium)
+#   url         : page to scrape.                                   [required]
+#   feed        : RSS channel metadata.                             [required]
+#     title       : channel <title>
+#     link        : channel <link> (usually == url)
+#     description : channel <description>
+#     language    : optional, default "en"
+#   selectors   : how to find items in the (rendered) HTML.
+#                 [required UNLESS `parser:` is set]
+#     item        : CSS selector matching ONE element per entry.
+#     title       : CSS selector for the title, relative to item.
+#     link        : optional CSS selector for the <a> whose href is the entry link.
+#                   If omitted, the item (or title) element's own/closest href is used.
+#     date        : optional CSS selector for the entry date text.
+#   date_format : optional strptime format for the date text.
+#                 Omit to let dateutil parse it heuristically.
+#   parser      : optional — name of a custom parser in parsers/<name>.py for
+#                 sites that don't fit the generic selectors model (no per-item
+#                 container, no permalinks, concatenated fields). When set,
+#                 `selectors:` is ignored.
+#   wait_for    : (dynamic only) optional CSS selector to await before scraping,
+#                 so we don't read the page before it has hydrated.
+
+sources:
+  - slug: antigravity
+    tier: dynamic
+    url: https://antigravity.google/changelog
+    feed:
+      title: "Google Antigravity — Changelog"
+      link: https://antigravity.google/changelog
+      description: "Release notes and changelog for Google Antigravity, minted by feedmint."
+      language: en
+    # Custom parser: the changelog is an alternating version/description grid
+    # with no per-entry container and no permalinks. See parsers/antigravity.py.
+    parser: antigravity
+    wait_for: "section.special-grid"

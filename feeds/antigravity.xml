@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Google Antigravity — Changelog</title>
+    <link>https://antigravity.google/changelog</link>
+    <description>Release notes and changelog for Google Antigravity, minted by feedmint.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>feedmint</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Antigravity Guide, audio support, search improvements, and performance fixes</title>
+      <link>https://antigravity.google/changelog#2.2.1</link>
+      <guid isPermaLink="true">https://antigravity.google/changelog#2.2.1</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quota Screen Redesign and PDF Support</title>
+      <link>https://antigravity.google/changelog#2.1.4</link>
+      <guid isPermaLink="true">https://antigravity.google/changelog#2.1.4</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Antivirus and Open IDE fixes</title>
+      <link>https://antigravity.google/changelog#2.0.11</link>
+      <guid isPermaLink="true">https://antigravity.google/changelog#2.0.11</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AGY 2.0 Bug fixes</title>
+      <link>https://antigravity.google/changelog#2.0.10</link>
+      <guid isPermaLink="true">https://antigravity.google/changelog#2.0.10</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Antigravity IDE integration</title>
+      <link>https://antigravity.google/changelog#2.0.6</link>
+      <guid isPermaLink="true">https://antigravity.google/changelog#2.0.6</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AGY 2.0 Bug Fixes</title>
+      <link>https://antigravity.google/changelog#2.0.1</link>
+      <guid isPermaLink="true">https://antigravity.google/changelog#2.0.1</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
