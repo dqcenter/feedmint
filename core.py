@@ -14,11 +14,19 @@ from dateutil import parser as dateparser
 
 @dataclass(slots=True)
 class Item:
-    """One feed entry. `link` doubles as the RSS guid."""
+    """One feed entry.
+
+    `link` is the entry URL. `guid` is an optional opaque unique id: set it when
+    the link is NOT a reliable per-entry permalink (e.g. a `#fragment` anchor on
+    a shared page), because many readers strip fragments when deduping guids and
+    would collapse every entry into one. When `guid` is set the RSS guid is
+    emitted with isPermaLink="false"; otherwise `link` is used as a permalink guid.
+    """
 
     title: str
     link: str
     date: datetime | None = None
+    guid: str | None = None
 
 
 class BuildError(RuntimeError):

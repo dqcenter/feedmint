@@ -46,7 +46,11 @@ def parse(html: str, base_url: str, source: dict) -> list[Item]:
             version, date = m.group(1), parse_date(m.group(2))
 
         # No per-entry permalink exists; version is the stable per-entry anchor.
+        # Keep the #-anchored URL as the link (deep-links into the changelog),
+        # but use an opaque, fragment-free guid so readers that strip #fragments
+        # when deduping don't collapse every entry into one.
         link = f"{base_url}#{version}" if version else base_url
-        items.append(Item(title=title, link=link, date=date))
+        guid = f"{source['slug']}-{version}" if version else None
+        items.append(Item(title=title, link=link, date=date, guid=guid))
 
     return items

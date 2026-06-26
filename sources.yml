@@ -31,7 +31,7 @@
 #                 so we don't read the page before it has hydrated.
 
 sources:
-  - slug: antigravity
+  - slug: antigravity-changelog
     tier: dynamic
     url: https://antigravity.google/changelog
     feed:

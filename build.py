@@ -158,7 +158,12 @@ def build_rss(feed_meta: dict, items: list[Item]) -> bytes:
         fe = fg.add_entry()
         fe.title(item.title)
         fe.link(href=item.link)
-        fe.guid(item.link, permalink=True)
+        # Opaque guid (isPermaLink=false) when the link isn't a reliable
+        # permalink; otherwise the link itself is the permalink guid.
+        if item.guid:
+            fe.guid(item.guid, permalink=False)
+        else:
+            fe.guid(item.link, permalink=True)
         if item.date:
             fe.pubDate(item.date)
 
