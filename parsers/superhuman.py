@@ -54,8 +54,11 @@ def parse(html: str, base_url: str, source: dict) -> list[Item]:
             if not title:
                 continue
 
+            desc = post.css_first('meta[property="og:description"]')
+            summary = ((desc.attributes.get("content") if desc else None) or "").strip() or None
+
             m = _DATE_RE.search(resp.text)
             date = parse_date(m.group(1)) if m else None
-            items.append(Item(title=title, link=url, date=date))
+            items.append(Item(title=title, link=url, date=date, summary=summary))
 
     return items

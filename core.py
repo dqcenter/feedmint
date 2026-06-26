@@ -27,6 +27,7 @@ class Item:
     link: str
     date: datetime | None = None
     guid: str | None = None
+    summary: str | None = None
 
 
 class BuildError(RuntimeError):
