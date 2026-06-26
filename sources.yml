@@ -56,3 +56,20 @@ sources:
     # /p/<slug> issue links (static); the parser fetches each issue's <head>
     # for a clean og:title + JSON-LD datePublished. See parsers/superhuman.py.
     parser: superhuman
+
+  - slug: openai-news
+    tier: dynamic
+    url: https://openai.com/news/
+    feed:
+      title: "OpenAI — News"
+      link: https://openai.com/news/
+      description: "OpenAI news and announcements, minted by feedmint."
+      language: en
+    # Generic selectors: the rendered news grid has one card per article with a
+    # clean title node and an ISO <time datetime>. No custom parser needed.
+    selectors:
+      item: "div.group.relative"
+      title: ".text-h5"
+      link: 'a[href^="/index/"]'
+      date: "time"
+    wait_for: "div.group.relative"

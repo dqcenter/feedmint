@@ -35,6 +35,8 @@ Current feeds:
 | slug | source | feed |
 |------|--------|------|
 | `antigravity` | [Google Antigravity changelog](https://antigravity.google/changelog) | `feeds/antigravity.xml` |
+| `superhuman-ai` | [Superhuman AI newsletter](https://www.superhuman.ai/archive) | `feeds/superhuman-ai.xml` |
+| `openai-news` | [OpenAI News](https://openai.com/news/) | `feeds/openai-news.xml` |
 
 ## Adding a source
 
