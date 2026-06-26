@@ -68,7 +68,7 @@ jobs:
       - name: Build feed
         run: python build.py --source "${{ matrix.slug }}"
       - name: Upload feed artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: feed-${{ matrix.slug }}
           path: feeds/${{ matrix.slug }}.xml
@@ -84,7 +84,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - name: Collect built feeds
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           pattern: feed-*
           path: feeds
