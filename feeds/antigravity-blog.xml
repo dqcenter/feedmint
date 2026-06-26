@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Google Antigravity — Blog</title>
+    <link>https://antigravity.google/blog</link>
+    <description>Google Antigravity blog posts and announcements, minted by feedmint.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>feedmint</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Gemini 3.5 Flash in Google Antigravity</title>
+      <link>https://antigravity.google/blog/gemini-3-5-flash-in-google-antigravity</link>
+      <guid isPermaLink="true">https://antigravity.google/blog/gemini-3-5-flash-in-google-antigravity</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Antigravity in Gemini Enterprise</title>
+      <link>https://antigravity.google/blog/google-antigravity-for-enterprises</link>
+      <guid isPermaLink="true">https://antigravity.google/blog/google-antigravity-for-enterprises</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Antigravity SDK</title>
+      <link>https://antigravity.google/blog/introducing-google-antigravity-sdk</link>
+      <guid isPermaLink="true">https://antigravity.google/blog/introducing-google-antigravity-sdk</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Antigravity CLI</title>
+      <link>https://antigravity.google/blog/introducing-google-antigravity-cli</link>
+      <guid isPermaLink="true">https://antigravity.google/blog/introducing-google-antigravity-cli</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Antigravity Built an OS (and more)</title>
+      <link>https://antigravity.google/blog/google-antigravity-built-an-os</link>
+      <guid isPermaLink="true">https://antigravity.google/blog/google-antigravity-built-an-os</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Google Antigravity 2.0</title>
+      <link>https://antigravity.google/blog/introducing-google-antigravity-2</link>
+      <guid isPermaLink="true">https://antigravity.google/blog/introducing-google-antigravity-2</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Antigravity @ I/O 2026</title>
+      <link>https://antigravity.google/blog/google-io-2026</link>
+      <guid isPermaLink="true">https://antigravity.google/blog/google-io-2026</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Google Antigravity</title>
+      <link>https://antigravity.google/blog/introducing-google-antigravity</link>
+      <guid isPermaLink="true">https://antigravity.google/blog/introducing-google-antigravity</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

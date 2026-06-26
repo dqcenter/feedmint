@@ -44,6 +44,20 @@ sources:
     parser: antigravity
     wait_for: "section.special-grid"
 
+  - slug: antigravity-blog
+    tier: dynamic
+    url: https://antigravity.google/
+    feed:
+      title: "Google Antigravity — Blog"
+      link: https://antigravity.google/blog
+      description: "Google Antigravity blog posts and announcements, minted by feedmint."
+      language: en
+    # The /blog index won't render in headless; the homepage reliably renders a
+    # curated slider of all blog posts. We scrape the homepage (url above) and
+    # link out to /blog. See parsers/antigravity_blog.py.
+    parser: antigravity_blog
+    wait_for: 'a[href^="/blog/"]'
+
   - slug: superhuman-ai
     tier: static
     url: https://www.superhuman.ai/archive
