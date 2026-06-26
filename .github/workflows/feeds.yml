@@ -30,8 +30,8 @@ jobs:
     outputs:
       slugs: ${{ steps.list.outputs.slugs }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version-file: .python-version
       - name: Build slug matrix from sources.yml
@@ -56,8 +56,8 @@ jobs:
       matrix:
         slug: ${{ fromJson(needs.discover.outputs.slugs) }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version-file: .python-version
           cache: pip
@@ -82,7 +82,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Collect built feeds
         uses: actions/download-artifact@v4
         with:
