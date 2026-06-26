@@ -43,3 +43,16 @@ sources:
     # with no per-entry container and no permalinks. See parsers/antigravity.py.
     parser: antigravity
     wait_for: "section.special-grid"
+
+  - slug: superhuman-ai
+    tier: static
+    url: https://www.superhuman.ai/archive
+    feed:
+      title: "Superhuman AI"
+      link: https://www.superhuman.ai/archive
+      description: "Zain Kahn's Superhuman AI newsletter, minted by feedmint."
+      language: en
+    # Custom parser: beehiiv newsletter with no usable RSS. The archive lists
+    # /p/<slug> issue links (static); the parser fetches each issue's <head>
+    # for a clean og:title + JSON-LD datePublished. See parsers/superhuman.py.
+    parser: superhuman
