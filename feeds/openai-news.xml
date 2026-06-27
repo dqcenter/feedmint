@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 02:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Previewing GPT-5.6 Sol: a next-generation model</title>
+      <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
+      <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
+      <pubDate>Fri, 26 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT‑5.6 Preview System Card</title>
+      <link>https://deploymentsafety.openai.com/gpt-5-6-preview</link>
+      <guid isPermaLink="true">https://deploymentsafety.openai.com/gpt-5-6-preview</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How agents are transforming work</title>
       <link>https://openai.com/index/how-agents-are-transforming-work/</link>
@@ -49,18 +61,6 @@
       <link>https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/</link>
       <guid isPermaLink="true">https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/</guid>
       <pubDate>Sun, 21 Jun 2026 16:00:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>New usage analytics and updated spend controls for enterprises</title>
-      <link>https://openai.com/index/chatgpt-enterprise-spend-controls/</link>
-      <guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-spend-controls/</guid>
-      <pubDate>Thu, 18 Jun 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improving health intelligence in ChatGPT</title>
-      <link>https://openai.com/index/improving-health-intelligence-in-chatgpt/</link>
-      <guid isPermaLink="true">https://openai.com/index/improving-health-intelligence-in-chatgpt/</guid>
-      <pubDate>Thu, 18 Jun 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
