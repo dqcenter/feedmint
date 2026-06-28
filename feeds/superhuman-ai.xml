@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 14:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Robotics Special: Agility Robotics goes public at $2.5B valuation</title>
+      <link>https://www.superhuman.ai/p/robotics-special-agility-robotics-goes-public-at-2-5b-valuation</link>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-agility-robotics-goes-public-at-2-5b-valuation</guid>
+      <pubDate>Sat, 27 Jun 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic calls out Chinese labs (again)</title>
       <link>https://www.superhuman.ai/p/anthropic-calls-out-chinese-labs-again</link>
@@ -68,13 +74,6 @@
       <description>ALSO: How to analyze data in Excel using ChatGPT</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/apple-set-to-raise-prices-due-to-ai</guid>
       <pubDate>Thu, 18 Jun 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Copilot Cowork becomes generally available</title>
-      <link>https://www.superhuman.ai/p/copilot-cowork-becomes-generally-available</link>
-      <description>ALSO: How to create and edit videos and images inside ChatGPT</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/copilot-cowork-becomes-generally-available</guid>
-      <pubDate>Wed, 17 Jun 2026 07:44:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
