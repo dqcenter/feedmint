@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>A $5B startup emerges from stealth</title>
+      <link>https://www.superhuman.ai/p/a-5b-startup-emerges-from-stealth</link>
+      <description>ALSO: How to analyze data in Excel using ChatGPT</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/a-5b-startup-emerges-from-stealth</guid>
+      <pubDate>Thu, 02 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic's Claude Fable 5 is back online</title>
       <link>https://www.superhuman.ai/p/anthropic-s-claude-fable-5-is-back-online</link>
@@ -68,13 +75,6 @@
       <description>ALSO: How to fill out forms by talking to ChatGPT</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/openai-expands-cyber-push-while-mythos-stays-dark</guid>
       <pubDate>Tue, 23 Jun 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Startups claims its new model matches Mythos and Fable</title>
-      <link>https://www.superhuman.ai/p/startups-claims-its-new-model-matches-mythos-and-fable</link>
-      <description>ALSO: How to monitor your brand’s AI search visibility</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/startups-claims-its-new-model-matches-mythos-and-fable</guid>
-      <pubDate>Mon, 22 Jun 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
