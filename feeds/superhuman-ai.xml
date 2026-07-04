@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Sam Altman pushes for AI sovereign wealth fund</title>
+      <link>https://www.superhuman.ai/p/sam-altman-pushes-for-ai-sovereign-wealth-fund</link>
+      <description>ALSO: How to turn Reddit threads into viral posts with AI</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/sam-altman-pushes-for-ai-sovereign-wealth-fund</guid>
+      <pubDate>Fri, 03 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>A $5B startup emerges from stealth</title>
       <link>https://www.superhuman.ai/p/a-5b-startup-emerges-from-stealth</link>
@@ -68,13 +75,6 @@
       <description>ALSO: How to turn messy notes into a structured document with ChatGPT</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/claude-joins-your-slack-channel</guid>
       <pubDate>Wed, 24 Jun 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI expands cyber push while Mythos stays dark</title>
-      <link>https://www.superhuman.ai/p/openai-expands-cyber-push-while-mythos-stays-dark</link>
-      <description>ALSO: How to fill out forms by talking to ChatGPT</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/openai-expands-cyber-push-while-mythos-stays-dark</guid>
-      <pubDate>Tue, 23 Jun 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
