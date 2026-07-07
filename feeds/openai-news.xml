@@ -9,15 +9,15 @@
     <language>en</language>
     <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Core dump epidemiology: fixing an 18-year-old bug</title>
-      <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/</link>
-      <guid isPermaLink="true">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing GeneBench-Pro</title>
       <link>https://openai.com/index/introducing-genebench-pro/</link>
       <guid isPermaLink="true">https://openai.com/index/introducing-genebench-pro/</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Core dump epidemiology: fixing an 18-year-old bug</title>
+      <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/</link>
+      <guid isPermaLink="true">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/</guid>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -57,9 +57,9 @@
       <pubDate>Tue, 23 Jun 2026 10:00:00 -0700</pubDate>
     </item>
     <item>
-      <title>Daybreak: Tools for securing every organization in the world</title>
-      <link>https://openai.com/index/daybreak-securing-the-world/</link>
-      <guid isPermaLink="true">https://openai.com/index/daybreak-securing-the-world/</guid>
+      <title>Patch the Planet: a Daybreak initiative to support open source maintainers</title>
+      <link>https://openai.com/index/patch-the-planet/</link>
+      <guid isPermaLink="true">https://openai.com/index/patch-the-planet/</guid>
       <pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
