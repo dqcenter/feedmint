@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 06:32:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The model wars are raging on</title>
+      <link>https://www.superhuman.ai/p/the-model-wars-are-raging-on</link>
+      <description>ALSO: How to give your ​​AI agent a real email inbox</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/the-model-wars-are-raging-on</guid>
+      <pubDate>Thu, 09 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta's new image model outranks competitors</title>
+      <link>https://www.superhuman.ai/p/meta-s-new-image-model-outranks-competitors</link>
+      <description>ALSO: How to design pro websites with Claude skills</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/meta-s-new-image-model-outranks-competitors</guid>
+      <pubDate>Wed, 08 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Claude's hidden "thinking space"</title>
       <link>https://www.superhuman.ai/p/claude-s-hidden-thinking-space</link>
@@ -61,13 +75,6 @@
       <description>ALSO: How to audit website SEO with Replit</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/meta-s-model-turn-brain-waves-into-words</guid>
       <pubDate>Tue, 30 Jun 2026 11:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI launched strongest new models</title>
-      <link>https://www.superhuman.ai/p/openai-launched-strongest-new-models</link>
-      <description>ALSO: How to turn Claude Cowork into your personalized assistant</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/openai-launched-strongest-new-models</guid>
-      <pubDate>Mon, 29 Jun 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
