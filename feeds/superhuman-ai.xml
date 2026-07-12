@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 11:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 14:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Robotics Special: 1X unveils human-like hands for Neo</title>
+      <link>https://www.superhuman.ai/p/robotics-special-1x-unveils-human-like-hands-for-neo</link>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-1x-unveils-human-like-hands-for-neo</guid>
+      <pubDate>Sat, 11 Jul 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI launches ChatGPT Work: a new desktop agent</title>
       <link>https://www.superhuman.ai/p/openai-launches-chatgpt-work-a-new-desktop-agent</link>
@@ -68,13 +74,6 @@
       <description>ALSO: How to analyze data in Excel using ChatGPT</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/a-5b-startup-emerges-from-stealth</guid>
       <pubDate>Thu, 02 Jul 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic's Claude Fable 5 is back online</title>
-      <link>https://www.superhuman.ai/p/anthropic-s-claude-fable-5-is-back-online</link>
-      <description>ALSO: How to generate and edit presentations directly in ChatGPT</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/anthropic-s-claude-fable-5-is-back-online</guid>
-      <pubDate>Wed, 01 Jul 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
