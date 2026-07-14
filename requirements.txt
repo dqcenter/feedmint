@@ -4,4 +4,6 @@ selectolax>=0.3.21     # fast HTML parsing (both tiers)
 feedgen>=1.0           # RSS 2.0 generation
 python-dateutil>=2.9   # flexible date parsing
 PyYAML>=6.0            # sources.yml config
-playwright>=1.60       # dynamic-tier rendering (headless Chromium)
+playwright==1.61.0     # dynamic-tier rendering (headless Chromium); pinned to
+                       # match the Dockerfile.dev base image so the bundled
+                       # browser and the pip package never drift apart.

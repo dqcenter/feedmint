@@ -8,8 +8,8 @@
 #
 # The base image ships Chromium + matching Playwright + all OS deps, so we
 # only add the pure-Python requirements. The pinned tag matches requirements.txt
-# (playwright>=1.60) so the bundled browser and the pip package agree.
-FROM mcr.microsoft.com/playwright/python:v1.60.0-noble
+# (playwright==1.61.0) so the bundled browser and the pip package agree.
+FROM mcr.microsoft.com/playwright/python:v1.61.0-noble
 
 WORKDIR /app
 
