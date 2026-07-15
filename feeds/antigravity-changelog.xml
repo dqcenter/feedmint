@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Queued messages, plain text files support, and stability improvements</title>
+      <link>https://antigravity.google/changelog#2.3.0</link>
+      <description>Added support for queued messages, settings to configure message execution, a send now option, plain text file attachments, and various bug fixes and improvements.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.3.0</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Antigravity Guide, audio support, search improvements, and performance fixes</title>
       <link>https://antigravity.google/changelog#2.2.1</link>
