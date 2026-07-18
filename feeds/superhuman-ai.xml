@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 11:01:52 +0000</lastBuildDate>
+    <item>
+      <title>Moonshot AI reveals a frontier-level model</title>
+      <link>https://www.superhuman.ai/p/moonshot-ai-reveals-a-frontier-level-model</link>
+      <description>ALSO: How to create a daily work brief using ChatGPT Work</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/moonshot-ai-reveals-a-frontier-level-model</guid>
+      <pubDate>Fri, 17 Jul 2026 11:01:52 +0000</pubDate>
+    </item>
     <item>
       <title>America's best open-weight model yet</title>
       <link>https://www.superhuman.ai/p/america-s-best-open-weight-model-yet</link>
@@ -68,13 +75,6 @@
       <description>ALSO: How to design pro websites with Claude skills</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/meta-s-new-image-model-outranks-competitors</guid>
       <pubDate>Wed, 08 Jul 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude's hidden "thinking space"</title>
-      <link>https://www.superhuman.ai/p/claude-s-hidden-thinking-space</link>
-      <description>ALSO: How to turn raw data into a slide deck with Claude Design</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/claude-s-hidden-thinking-space</guid>
-      <pubDate>Tue, 07 Jul 2026 06:32:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
