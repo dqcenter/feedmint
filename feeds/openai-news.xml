@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 17:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Introducing the ChatGPT for small business program</title>
+      <link>https://openai.com/index/introducing-chatgpt-small-business-program/</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-small-business-program/</guid>
+      <pubDate>Tue, 21 Jul 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI and Hugging Face address security incident</title>
+      <link>https://openai.com/index/hugging-face-model-evaluation-security-incident/</link>
+      <guid isPermaLink="true">https://openai.com/index/hugging-face-model-evaluation-security-incident/</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>David Vélez and Robin Vince join OpenAI boards</title>
+      <link>https://openai.com/index/david-velez-robin-vince-join-openai-boards/</link>
+      <guid isPermaLink="true">https://openai.com/index/david-velez-robin-vince-join-openai-boards/</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Safety and alignment in an era of long-horizon models</title>
+      <link>https://openai.com/index/safety-alignment-long-horizon-models/</link>
+      <guid isPermaLink="true">https://openai.com/index/safety-alignment-long-horizon-models/</guid>
+      <pubDate>Mon, 20 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A scorecard for the AI age</title>
+      <link>https://openai.com/index/a-scorecard-for-the-ai-age/</link>
+      <guid isPermaLink="true">https://openai.com/index/a-scorecard-for-the-ai-age/</guid>
+      <pubDate>Fri, 17 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why teens deserve access to safe AI</title>
+      <link>https://openai.com/index/why-teens-deserve-access-safe-ai/</link>
+      <guid isPermaLink="true">https://openai.com/index/why-teens-deserve-access-safe-ai/</guid>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-Red: Unlocking Self-Improvement for Robustness</title>
+      <link>https://openai.com/index/unlocking-self-improvement-gpt-red/</link>
+      <guid isPermaLink="true">https://openai.com/index/unlocking-self-improvement-gpt-red/</guid>
+      <pubDate>Wed, 15 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How to manage AI investments in the agentic era</title>
       <link>https://openai.com/index/managing-ai-investments-in-agentic-era/</link>
@@ -19,48 +61,6 @@
       <link>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/</link>
       <guid isPermaLink="true">https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/</guid>
       <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPT-5.6: Frontier intelligence that scales with your ambition</title>
-      <link>https://openai.com/index/gpt-5-6/</link>
-      <guid isPermaLink="true">https://openai.com/index/gpt-5-6/</guid>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT is now a partner for your most ambitious work</title>
-      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work/</link>
-      <guid isPermaLink="true">https://openai.com/index/chatgpt-for-your-most-ambitious-work/</guid>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Bio Bug Bounty</title>
-      <link>https://openai.com/index/bio-bug-bounty/</link>
-      <guid isPermaLink="true">https://openai.com/index/bio-bug-bounty/</guid>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPT‑5.6 System Card</title>
-      <link>https://deploymentsafety.openai.com/gpt-5-6</link>
-      <guid isPermaLink="true">https://deploymentsafety.openai.com/gpt-5-6</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Separating signal from noise in coding evaluations</title>
-      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations/</link>
-      <guid isPermaLink="true">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</guid>
-      <pubDate>Wed, 08 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPT‑Live System Card</title>
-      <link>https://deploymentsafety.openai.com/gpt-live</link>
-      <guid isPermaLink="true">https://deploymentsafety.openai.com/gpt-live</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing GPT-Live</title>
-      <link>https://openai.com/index/introducing-gpt-live/</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live/</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

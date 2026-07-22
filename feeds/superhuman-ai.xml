@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 11:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 11:01:54 +0000</lastBuildDate>
+    <item>
+      <title>Claude cracks 87-year-old math problem</title>
+      <link>https://www.superhuman.ai/p/claude-cracks-87-year-old-math-problem</link>
+      <description>ALSO: How to build and publish websites with ChatGPT Sites</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/claude-cracks-87-year-old-math-problem</guid>
+      <pubDate>Tue, 21 Jul 2026 11:01:54 +0000</pubDate>
+    </item>
     <item>
       <title>China is closing the AI gap</title>
       <link>https://www.superhuman.ai/p/china-is-closing-the-ai-gap</link>
@@ -67,12 +74,6 @@
       <link>https://www.superhuman.ai/p/sunday-special-china-lands-a-reusable-rocket-for-the-first-time</link>
       <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-china-lands-a-reusable-rocket-for-the-first-time</guid>
       <pubDate>Sun, 12 Jul 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robotics Special: 1X unveils human-like hands for Neo</title>
-      <link>https://www.superhuman.ai/p/robotics-special-1x-unveils-human-like-hands-for-neo</link>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-1x-unveils-human-like-hands-for-neo</guid>
-      <pubDate>Sat, 11 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
