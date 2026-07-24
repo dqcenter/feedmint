@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 11:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 11:30:00 +0000</lastBuildDate>
+    <item>
+      <title>Google's revenue &amp; China tensions soar</title>
+      <link>https://www.superhuman.ai/p/google-s-revenue-china-tensions-soar</link>
+      <description>ALSO: How to dictate anywhere on your Android device with Wispr Flow</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/google-s-revenue-china-tensions-soar</guid>
+      <pubDate>Thu, 23 Jul 2026 11:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Claude Cowork gets screen memorization skills</title>
       <link>https://www.superhuman.ai/p/claude-cowork-gets-screen-memorization-skills</link>
@@ -68,13 +75,6 @@
       <description>ALSO: How to design anything with Canva in Claude Design</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/ai-execs-confirm-demand-isn-t-slowing-just-shifting</guid>
       <pubDate>Tue, 14 Jul 2026 11:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple sues OpenAI</title>
-      <link>https://www.superhuman.ai/p/apple-sues-openai</link>
-      <description>ALSO: Turn meeting notes into presentations with ChatGPT Work</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/apple-sues-openai</guid>
-      <pubDate>Mon, 13 Jul 2026 11:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
