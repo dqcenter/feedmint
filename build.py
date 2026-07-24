@@ -78,11 +78,11 @@ def fetch_dynamic(url: str, wait_for: str | None) -> str:
         browser = p.chromium.launch()
         try:
             page = browser.new_page(user_agent=USER_AGENT)
-            # Use domcontentloaded, not networkidle: modern sites (e.g.
-            # openai.com) keep background network chatter alive indefinitely
-            # (analytics, telemetry), so networkidle never settles and goto
-            # times out. The wait_for selector below is the real readiness
-            # signal for JS-rendered content.
+            # Use domcontentloaded, not networkidle: modern sites keep
+            # background network chatter alive indefinitely (analytics,
+            # telemetry), so networkidle never settles and goto times out. The
+            # wait_for selector below is the real readiness signal for
+            # JS-rendered content.
             page.goto(url, wait_until="domcontentloaded", timeout=DYNAMIC_TIMEOUT_MS)
             if wait_for:
                 page.wait_for_selector(wait_for, timeout=DYNAMIC_TIMEOUT_MS)

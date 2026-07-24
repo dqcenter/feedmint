@@ -7,62 +7,475 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Markdown format custom agents, /copy index support, progressive /codesearch streaming, default temp directory access, and stability fixes</title>
+      <link>https://antigravity.google/changelog#1.1.6</link>
+      <description>Added support for defining custom agents in Markdown format (agent.md), optional index argument for/copy, progressive streaming in/codesearch, default read access to system temporary directory, and resolved various TUI jitter, artifact viewer, and sandbox fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.6-00a4012b</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reasoning effort command, model slug pinning, subagent model configuration, and TUI stability improvements</title>
+      <link>https://antigravity.google/changelog#1.1.5</link>
+      <description>Added/effortcommand and--effortflag for reasoning effort selection, stable model slugs, subagent model config, redesigned/modelpicker, scrollable/settingspanel, and various MCP and background task fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.5-9c773073</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slash command chaining, diff scrolling fixes, and headless policy enforcement</title>
+      <link>https://antigravity.google/changelog#1.1.4</link>
+      <description>Added slash command stacking (chaining multiple commands in a single prompt), diff viewer scroll fixes, headless mode settings.json policy enforcement, and subagent declaration fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.4-810e5d58</guid>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codesearch command, copy-on-select, and performance optimizations</title>
+      <link>https://antigravity.google/changelog#1.1.3</link>
+      <description>New/codesearchcommand for regex workspace searches, copy-on-select, async skill discovery, and stability fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.3-b49b79dd</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Startup stability fix</title>
       <link>https://antigravity.google/changelog#2.3.1</link>
       <description>Fixes a bug where an empty or malformed configuration file caused AGY to fail to load on startup.</description>
-      <guid isPermaLink="false">antigravity-changelog-2.3.1</guid>
+      <guid isPermaLink="false">antigravity-changelog-2.3.1-fbdba3c9</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi-threaded state handling, subprocess isolation, extra high thinking, and local model MCP</title>
+      <link>https://antigravity.google/changelog#0.1.7</link>
+      <description>Release 0.1.7 of the Google Antigravity Python SDK expands end-user control over agent execution environments, strengthens concurrency safety for stateful tools, and introduces deeper reasoning capabilities. Key highlights include atomic multi-threaded state handling for tools and hooks, customizable subprocess environment variable isolation, support for an "extra_high" thinking severity level, and full Model Context Protocol (MCP) and subagent support across local model backends. This release also resolves interactive console prompt clobbering and improves socket discovery under containerized setups.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.7-839c925e</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Full diff preview, OAuth print mode improvements, and lag fixes</title>
+      <link>https://antigravity.google/changelog#1.1.2</link>
+      <description>Added full-screen diffs for file creations, OAuth authorization code pasting in print mode, and 5000+ step latency optimizations.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.2-8f0d2a73</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Queued messages, plain text files support, and stability improvements</title>
       <link>https://antigravity.google/changelog#2.3.0</link>
       <description>Added support for queued messages, settings to configure message execution, a send now option, plain text file attachments, and various bug fixes and improvements.</description>
-      <guid isPermaLink="false">antigravity-changelog-2.3.0</guid>
+      <guid isPermaLink="false">antigravity-changelog-2.3.0-00a34faf</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custom agents flag, in-file keyword search, and Jujutsu diff fixes</title>
+      <link>https://antigravity.google/changelog#1.1.1</link>
+      <description>Added--agentflag, in-file keyword search for artifacts, recursive subagent updates, and Jujutsu workspace diff fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.1-d6f1cc0d</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LiteRT model configurations, dynamic GCP environment hydration, and performance updates</title>
+      <link>https://antigravity.google/changelog#0.1.6</link>
+      <description>This release expands local execution capabilities by broadening support for multimodal and web-connected tool workflows. Developers can now run Gemma models locally using LiteRT or integrate with local OpenAI-compatible APIs, natively return multimodal media from custom tools, and leverage a more robust, streamlined lifecycle hooks framework that is fully aligned with Model Context Protocol (MCP) workflows.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.6-992cf391</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Request-review mode, execution mode cycling, and line-level diff previews</title>
+      <link>https://antigravity.google/changelog#1.1.0</link>
+      <description>Public release of mode cycling, default request-review mode with interactive line-level diff previews, and settings panel integration.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.0-17431198</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Streaming task logs, model generation retries, and markdown subagents</title>
+      <link>https://antigravity.google/changelog#1.0.16</link>
+      <description>Auto-scrolling background task logs, automatic client-side generation retries, and markdown-based dynamic subagents.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.16-4d751e1b</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subagent &amp; task status bar, editor warnings, and Windows fixes</title>
+      <link>https://antigravity.google/changelog#1.0.15</link>
+      <description>New interactive status bar for subagents and background tasks, clipboard image pasting improvements, and Windows fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.15-cac4226d</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indefinite goals, subagent auto-approvals, and plugin fixes</title>
+      <link>https://antigravity.google/changelog#1.0.14</link>
+      <description>Indefinite goals support, subagent auto-approval mode for artifacts, and directory preservation during plugin imports.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.14-e2757599</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optimistic slash commands, strict permission matching, and multiline undo</title>
+      <link>https://antigravity.google/changelog#1.0.13</link>
+      <description>Optimistic slash command rendering, strict non-regex permission matching, and unified undo/redo prompt history.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.13-e9e490c5</guid>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Streaming tool calls, custom subagent delegates, and thread safety enhancements</title>
+      <link>https://antigravity.google/changelog#0.1.5</link>
+      <description>This release introduces native OpenTelemetry tracing support, declarative subagent configurations, improved type safety, and critical robustness and compatibility updates.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.5-f5960aff</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Antigravity Guide, audio support, search improvements, and performance fixes</title>
       <link>https://antigravity.google/changelog#2.2.1</link>
       <description>New built-in Antigravity Guide skill, audio file rendering, improved substring file search, performance optimizations, and critical bug fixes.</description>
-      <guid isPermaLink="false">antigravity-changelog-2.2.1</guid>
+      <guid isPermaLink="false">antigravity-changelog-2.2.1-909fa4f3</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Project launch flags, terminal hyperlinks, and shift+n diff cycling</title>
+      <link>https://antigravity.google/changelog#1.0.12</link>
+      <description>Added--projectlaunch flags, dynamic OSC8 terminal hyperlinks, reverse diff cycling, and permission priorities.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.12-73a4702e</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ctrl+C interrupt flow, persistent resume cache, and AltScreen tool review</title>
+      <link>https://antigravity.google/changelog#1.0.11</link>
+      <description>Addedctrl+cinterrupt and exit handling, parallel/resumemetadata caching, and expanded AltScreen tool confirmations.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.11-74be739f</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model quota screen and agent security fixes</title>
+      <link>https://antigravity.google/changelog#2.1.1</link>
+      <description>New model quota screen, agent permission and security fixes, and MCP stability improvements</description>
+      <guid isPermaLink="false">antigravity-changelog-2.1.1-13e504ca</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ARM64 device support, builtin guide skill, and ASCII node graphs</title>
+      <link>https://antigravity.google/changelog#1.0.10</link>
+      <description>Expanded ARM64 device compatibility, added builtinantigravity_guideskill, and enabled ASCII Git log graphs.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.10-366df956</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Async tool execution buffers, memory state persistence, and error handling improvements</title>
+      <link>https://antigravity.google/changelog#0.1.4</link>
+      <description>This release introduces major architectural refactorings, public API standardizations, and key new capabilities centered on centralizing model configurations to natively support multi-model backends, exposing a new built-in Google Web Search capability, enabling environment variable passing for Model Context Protocol (MCP) servers, and simplifying the agent initialization flow by removing dynamic runtime registrations.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.4-fc5f4f6f</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Git submodule plugins, read-only permissions, and sandbox hardening</title>
+      <link>https://antigravity.google/changelog#1.0.9</link>
+      <description>Automatic Git submodule resolution for plugins, read-only access for builtin skills, and sandbox path hardening.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.9-ce11947f</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slash command history, Models &amp; Quota page, and TUI performance</title>
+      <link>https://antigravity.google/changelog#1.0.8</link>
+      <description>Replay slash command history with Up arrow, redesigned Models &amp; Quota page, and statusline quota usage indicators.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.8-ae0ff4f6</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Initial subagent orchestration and standard Google AI model targets</title>
+      <link>https://antigravity.google/changelog#0.1.3</link>
+      <description>This release introduces per-server MCP timeout configurations and improves local connection error handling.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.3-eb751560</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quota Screen Redesign and PDF Support</title>
       <link>https://antigravity.google/changelog#2.1.4</link>
       <description>Quota screen redesign, PDF attachment support, new /btw slash command, and other bug fixes</description>
-      <guid isPermaLink="false">antigravity-changelog-2.1.4</guid>
+      <guid isPermaLink="false">antigravity-changelog-2.1.4-77e29c83</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Configurable MCP timeouts, artifact gutter line mapping, and Wayland clipboard</title>
+      <link>https://antigravity.google/changelog#1.0.7</link>
+      <description>Configurable MCP server connection timeouts, accurate line-numbered artifact gutters, and native Wayland clipboard support.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.7-3fa88e95</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Path auto-completion, optimistic prompt rendering, and fuzzy matching</title>
+      <link>https://antigravity.google/changelog#1.0.6</link>
+      <description>Path autocompletion for/openand/add-dir, optimistic chat prompt rendering, and fuzzy slash command matching.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.6-8f9ae95f</guid>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Antigravity SDK release 0.1.2 updates</title>
+      <link>https://antigravity.google/changelog#0.1.2</link>
+      <description>This release adds Windows platform support, introduces programmatic turn-level stream cancellation, simplifies safety policy configurations for the Model Context Protocol (MCP), and removes the deprecated MCP SSE transport.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.2-d173dbb5</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model selection flags, in-CLI permissions editor, and URL MCP servers</title>
+      <link>https://antigravity.google/changelog#1.0.5</link>
+      <description>Added--modellaunch flag, interactive/permissionseditor, and URL-configured MCP servers.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.5-550572ca</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Antivirus and Open IDE fixes</title>
       <link>https://antigravity.google/changelog#2.0.11</link>
       <description>Startup and Open IDE button fixes</description>
-      <guid isPermaLink="false">antigravity-changelog-2.0.11</guid>
+      <guid isPermaLink="false">antigravity-changelog-2.0.11-004c26dc</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enterprise Authentication Fix</title>
+      <link>https://antigravity.google/changelog#2.0.4</link>
+      <description>Bug fixes</description>
+      <guid isPermaLink="false">antigravity-changelog-2.0.4-dca0a1fd</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SQLite conversation store, LaTeX math rendering, and centralized project cache</title>
+      <link>https://antigravity.google/changelog#1.0.4</link>
+      <description>SQLite conversation database format, terminal LaTeX math rendering, and centralized project discovery cache.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.4-4f800edc</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Antigravity SDK release 0.1.1 updates</title>
+      <link>https://antigravity.google/changelog#0.1.1</link>
+      <description>This release focuses on significant enhancements to the Model Context Protocol (MCP) integration, adds native Vertex AI authentication support, improves robustness with better error handling, and includes critical fixes for token usage tracking.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.1-57ad551d</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AGY 2.0 Bug fixes</title>
       <link>https://antigravity.google/changelog#2.0.10</link>
       <description>AGY 2.0 Bug fixes</description>
-      <guid isPermaLink="false">antigravity-changelog-2.0.10</guid>
+      <guid isPermaLink="false">antigravity-changelog-2.0.10-2e4db3c7</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Antigravity IDE integration</title>
       <link>https://antigravity.google/changelog#2.0.6</link>
       <description>Added integration with Antigravity IDE.</description>
-      <guid isPermaLink="false">antigravity-changelog-2.0.6</guid>
+      <guid isPermaLink="false">antigravity-changelog-2.0.6-6650a216</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Migration flow from Antigravity 1.0</title>
+      <link>https://antigravity.google/changelog#2.0.3</link>
+      <description>Added a migration flow that allows users to import customizations from Antigravity 1.0.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.0.3-e4342473</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix installation location</title>
+      <link>https://antigravity.google/changelog#2.0.2</link>
+      <description>Fixed installation location when installed via Antigravity 1.0.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.0.2-91bd4e50</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>First Release</title>
+      <link>https://antigravity.google/changelog#2.0.1</link>
+      <description>The first release of the Antigravity IDE.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.0.1-a3afa305</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AGY 2.0 Bug Fixes</title>
       <link>https://antigravity.google/changelog#2.0.1</link>
       <description>Antigravity 2.0 Launch bug fixes.</description>
-      <guid isPermaLink="false">antigravity-changelog-2.0.1</guid>
+      <guid isPermaLink="false">antigravity-changelog-2.0.1-e15360a6</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bug Fixes</title>
+      <link>https://antigravity.google/changelog#1.23.2</link>
+      <description>Fixed bug that prevented MCP servers from loading and bug that prevented accessing workspace-specific settings.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.23.2-57a6465f</guid>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Permissions</title>
+      <link>https://antigravity.google/changelog#1.22.2</link>
+      <description>New unifiedpermissions systemto control agent actions.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.22.2-ae1a4dd0</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Onboarding Fix</title>
+      <link>https://antigravity.google/changelog#1.21.9</link>
+      <description>Fixed bug that prevented new users from completing onboarding.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.21.9-cac6100d</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Sandboxing and MCP Improvements</title>
+      <link>https://antigravity.google/changelog#1.21.6</link>
+      <description>Linux support for sandboxing, improved MCP authentication, and deprecations in Manager.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.21.6-9fe9e047</guid>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix for customizations creation</title>
+      <link>https://antigravity.google/changelog#1.20.6</link>
+      <description>Fix for customizations creation.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.20.6-9f2d5f99</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stability and UI improvements</title>
+      <link>https://antigravity.google/changelog#1.20.5</link>
+      <description>Stability and UI improvements.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.20.5-44b96259</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Account Remediation Pathway</title>
+      <link>https://antigravity.google/changelog#1.19.6</link>
+      <description>Introduced a formal remediation process for accounts suspended due to Terms of Service violations. See ourofficial announcement.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.19.6-caf02a97</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Browser Fix</title>
+      <link>https://antigravity.google/changelog#1.19.5</link>
+      <description>Stability and UI improvements.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.19.5-284efa06</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stability and UI Improvements</title>
+      <link>https://antigravity.google/changelog#1.19.4</link>
+      <description>Stability and UI improvements.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.19.4-411bfb02</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix for Windows Auto-updater</title>
+      <link>https://antigravity.google/changelog#1.18.4</link>
+      <description>Bug fixes and stability improvements.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.18.4-65eea6b8</guid>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Settings, Artifacts, and Stability</title>
+      <link>https://antigravity.google/changelog#1.18.3</link>
+      <description>New settings screens for models and terminal integration, artifact download support, and various stability and UI fixes across platforms.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.18.3-63973566</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bug Fixes</title>
+      <link>https://antigravity.google/changelog#1.16.5</link>
+      <description>Various bug fixes and performance improvements.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.16.5-57a6465f</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Performance Improvements</title>
+      <link>https://antigravity.google/changelog#1.15.8</link>
+      <description>Performance improvements for long conversations.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.15.8-f1dabf49</guid>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Terminal Sandboxing</title>
+      <link>https://antigravity.google/changelog#1.15.6</link>
+      <description>MacOS users can now execute agent terminal commands withina sandboxto prevent damage to files outside the workspace.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.15.6-335b984c</guid>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Skills</title>
+      <link>https://antigravity.google/changelog#1.14.2</link>
+      <description>Introducing agent skills to Antigravity for enhanced customizability, alongside tab model updates and new conversation settings.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.14.2-42e2173a</guid>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>G1 AI credits support, /credits panel, and input prompt fixes</title>
+      <link>https://antigravity.google/changelog#1.0.3</link>
+      <description>G1 AI credits support when standard quotas run out, in-CLI/creditspanel, and prompt input fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.3-9fde084d</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Account hiding flag, subagent timeouts, and TUI fixes</title>
+      <link>https://antigravity.google/changelog#1.0.2</link>
+      <description>AddedAGY_CLI_HIDE_ACCOUNT_INFOflag, subagent-specific interaction timeouts, and TUI fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.2-34df2437</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sandbox auto-approvals, plugin discovery, and clipboard fixes</title>
+      <link>https://antigravity.google/changelog#1.0.1</link>
+      <description>Addedproceed-in-sandboxauto-approvals, automated plugin skill discovery, and clipboard image reading.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.1-06a3c925</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Initial release of Antigravity CLI</title>
+      <link>https://antigravity.google/changelog#1.0.0</link>
+      <description>Initial public release of the Antigravity CLI.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.0-2755c47c</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace Support</title>
+      <link>https://antigravity.google/changelog#1.13.3</link>
+      <description>Higher, more frequently refreshed rate limits for Google Workspace AI Ultra for Business subscribers.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.13.3-5744b7e2</guid>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3 Flash</title>
+      <link>https://antigravity.google/changelog#1.12.4</link>
+      <description>Support for Gemini 3 Flash in Antigravity.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.12.4-8534a84c</guid>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Secure Mode and Security Fixes</title>
+      <link>https://antigravity.google/changelog#1.11.17</link>
+      <description>Adding thesecure modeoption, which enforces certain settings to prevent the agent from autonomously running targeted exploits and requires human review for all agent actions. Various security fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.11.17-920dce57</guid>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google One Support</title>
+      <link>https://antigravity.google/changelog#1.11.14</link>
+      <description>Higher, more frequently refreshed rate limits for Google AI Pro and Ultra subscribers.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.11.14-ea84fd64</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stability and Bug Fixes</title>
+      <link>https://antigravity.google/changelog#1.11.9</link>
+      <description>Bug fixes in the authentication flow.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.11.9-c212e37e</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nano Banana Pro</title>
+      <link>https://antigravity.google/changelog#1.11.5</link>
+      <description>With Nano Banana Pro, our agents have gotten even better at generating UI mockups, system diagrams, or relevant embeddable assets, all grounded in your existing codebase and knowledge.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.11.5-91b1a4fd</guid>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Launch Day Feedback</title>
+      <link>https://antigravity.google/changelog#1.11.3</link>
+      <description>Fast hotfixes to address day one issues.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.11.3-a7e36b2f</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Antigravity</title>
+      <link>https://antigravity.google/changelog#1.11.2</link>
+      <description>The original launch of Google Antigravity, with a fully-featured AI-powered IDE, new Agent Manager view, an integrated experience with Chrome, broad variety of rich Artifacts, user feedback flows, knowledge management, and much more. The vision for what development looks like in an agent-first paradigm.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.11.2-60e441d6</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
