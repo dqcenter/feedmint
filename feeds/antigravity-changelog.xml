@@ -16,6 +16,13 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Permission prompts for compound commands, cache token attribution in print mode, and fixes for disabled plugins, MCP OAuth, and clipboard corruption</title>
+      <link>https://antigravity.google/changelog#1.1.7</link>
+      <description>Improved permission prompts for compound shell commands, added cache read token attribution in print mode, and fixed disabled plugins running hooks, MCP OAuth issuer validation, CJK clipboard copying on Windows, and/btwerror on startup.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.7-1e0b54a6</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Reasoning effort command, model slug pinning, subagent model configuration, and TUI stability improvements</title>
       <link>https://antigravity.google/changelog#1.1.5</link>
       <description>Added/effortcommand and--effortflag for reasoning effort selection, stable model slugs, subagent model config, redesigned/modelpicker, scrollable/settingspanel, and various MCP and background task fixes.</description>
@@ -128,17 +135,17 @@
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Project launch flags, terminal hyperlinks, and shift+n diff cycling</title>
-      <link>https://antigravity.google/changelog#1.0.12</link>
-      <description>Added--projectlaunch flags, dynamic OSC8 terminal hyperlinks, reverse diff cycling, and permission priorities.</description>
-      <guid isPermaLink="false">antigravity-changelog-1.0.12-73a4702e</guid>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ctrl+C interrupt flow, persistent resume cache, and AltScreen tool review</title>
       <link>https://antigravity.google/changelog#1.0.11</link>
       <description>Addedctrl+cinterrupt and exit handling, parallel/resumemetadata caching, and expanded AltScreen tool confirmations.</description>
       <guid isPermaLink="false">antigravity-changelog-1.0.11-74be739f</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Project launch flags, terminal hyperlinks, and shift+n diff cycling</title>
+      <link>https://antigravity.google/changelog#1.0.12</link>
+      <description>Added--projectlaunch flags, dynamic OSC8 terminal hyperlinks, reverse diff cycling, and permission priorities.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.12-73a4702e</guid>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -261,17 +268,17 @@
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Migration flow from Antigravity 1.0</title>
-      <link>https://antigravity.google/changelog#2.0.3</link>
-      <description>Added a migration flow that allows users to import customizations from Antigravity 1.0.</description>
-      <guid isPermaLink="false">antigravity-changelog-2.0.3-e4342473</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Fix installation location</title>
       <link>https://antigravity.google/changelog#2.0.2</link>
       <description>Fixed installation location when installed via Antigravity 1.0.</description>
       <guid isPermaLink="false">antigravity-changelog-2.0.2-91bd4e50</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Migration flow from Antigravity 1.0</title>
+      <link>https://antigravity.google/changelog#2.0.3</link>
+      <description>Added a migration flow that allows users to import customizations from Antigravity 1.0.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.0.3-e4342473</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -331,17 +338,17 @@
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Account Remediation Pathway</title>
-      <link>https://antigravity.google/changelog#1.19.6</link>
-      <description>Introduced a formal remediation process for accounts suspended due to Terms of Service violations. See ourofficial announcement.</description>
-      <guid isPermaLink="false">antigravity-changelog-1.19.6-caf02a97</guid>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Browser Fix</title>
       <link>https://antigravity.google/changelog#1.19.5</link>
       <description>Stability and UI improvements.</description>
       <guid isPermaLink="false">antigravity-changelog-1.19.5-284efa06</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Account Remediation Pathway</title>
+      <link>https://antigravity.google/changelog#1.19.6</link>
+      <description>Introduced a formal remediation process for accounts suspended due to Terms of Service violations. See ourofficial announcement.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.19.6-caf02a97</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -394,17 +401,10 @@
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>G1 AI credits support, /credits panel, and input prompt fixes</title>
-      <link>https://antigravity.google/changelog#1.0.3</link>
-      <description>G1 AI credits support when standard quotas run out, in-CLI/creditspanel, and prompt input fixes.</description>
-      <guid isPermaLink="false">antigravity-changelog-1.0.3-9fde084d</guid>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Account hiding flag, subagent timeouts, and TUI fixes</title>
-      <link>https://antigravity.google/changelog#1.0.2</link>
-      <description>AddedAGY_CLI_HIDE_ACCOUNT_INFOflag, subagent-specific interaction timeouts, and TUI fixes.</description>
-      <guid isPermaLink="false">antigravity-changelog-1.0.2-34df2437</guid>
+      <title>Initial release of Antigravity CLI</title>
+      <link>https://antigravity.google/changelog#1.0.0</link>
+      <description>Initial public release of the Antigravity CLI.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.0-2755c47c</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -415,10 +415,17 @@
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Initial release of Antigravity CLI</title>
-      <link>https://antigravity.google/changelog#1.0.0</link>
-      <description>Initial public release of the Antigravity CLI.</description>
-      <guid isPermaLink="false">antigravity-changelog-1.0.0-2755c47c</guid>
+      <title>Account hiding flag, subagent timeouts, and TUI fixes</title>
+      <link>https://antigravity.google/changelog#1.0.2</link>
+      <description>AddedAGY_CLI_HIDE_ACCOUNT_INFOflag, subagent-specific interaction timeouts, and TUI fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.2-34df2437</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>G1 AI credits support, /credits panel, and input prompt fixes</title>
+      <link>https://antigravity.google/changelog#1.0.3</link>
+      <description>G1 AI credits support when standard quotas run out, in-CLI/creditspanel, and prompt input fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.0.3-9fde084d</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -464,17 +471,17 @@
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Launch Day Feedback</title>
-      <link>https://antigravity.google/changelog#1.11.3</link>
-      <description>Fast hotfixes to address day one issues.</description>
-      <guid isPermaLink="false">antigravity-changelog-1.11.3-a7e36b2f</guid>
-      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Google Antigravity</title>
       <link>https://antigravity.google/changelog#1.11.2</link>
       <description>The original launch of Google Antigravity, with a fully-featured AI-powered IDE, new Agent Manager view, an integrated experience with Chrome, broad variety of rich Artifacts, user feedback flows, knowledge management, and much more. The vision for what development looks like in an agent-first paradigm.</description>
       <guid isPermaLink="false">antigravity-changelog-1.11.2-60e441d6</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Launch Day Feedback</title>
+      <link>https://antigravity.google/changelog#1.11.3</link>
+      <description>Fast hotfixes to address day one issues.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.11.3-a7e36b2f</guid>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
