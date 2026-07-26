@@ -16,10 +16,17 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Permission prompts for compound commands, cache token attribution in print mode, and fixes for disabled plugins, MCP OAuth, and clipboard corruption</title>
+      <title>Permission prompts for compound commands, and fixes for disabled plugins, MCP OAuth, and clipboard corruption</title>
       <link>https://antigravity.google/changelog#1.1.7</link>
-      <description>Improved permission prompts for compound shell commands, added cache read token attribution in print mode, and fixed disabled plugins running hooks, MCP OAuth issuer validation, CJK clipboard copying on Windows, and/btwerror on startup.</description>
-      <guid isPermaLink="false">antigravity-changelog-1.1.7-1e0b54a6</guid>
+      <description>Improved permission prompts for compound shell commands, and fixed disabled plugins running hooks, MCP OAuth issuer validation, CJK clipboard copying on Windows, and/btwerror on startup.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.7-c8c2119d</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preview tabs, MCP timeouts, file attachments, and performance fixes</title>
+      <link>https://antigravity.google/changelog#2.4.2</link>
+      <description>Added preview tabs, attachment support for .json, .md, and .csv files, MCP timeouts, keyboard shortcuts, and various bug fixes and improvements.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.4.2-ee63e64d</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
