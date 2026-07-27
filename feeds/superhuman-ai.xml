@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 14:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Sunday Special: Bombardier's jet smashes another speed record</title>
+      <link>https://www.superhuman.ai/p/sunday-special-bombardier-s-jet-smashes-another-speed-record</link>
+      <description>World</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-bombardier-s-jet-smashes-another-speed-record</guid>
+      <pubDate>Sun, 26 Jul 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Robotics Special: The world's first centaur robot</title>
       <link>https://www.superhuman.ai/p/robotics-special-the-world-s-first-centaur-robot</link>
@@ -67,13 +74,6 @@
       <description>ALSO: How to create a daily work brief using ChatGPT Work</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/moonshot-ai-reveals-a-frontier-level-model</guid>
       <pubDate>Fri, 17 Jul 2026 11:01:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>America's best open-weight model yet</title>
-      <link>https://www.superhuman.ai/p/america-s-best-open-weight-model-yet</link>
-      <description>ALSO: How to turn Figma designs into polished UI with ChatGPT</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/america-s-best-open-weight-model-yet</guid>
-      <pubDate>Thu, 16 Jul 2026 11:01:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
