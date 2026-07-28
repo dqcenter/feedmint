@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Print mode structured output formats, custom JSON schema enforcement, copyOnSelect TUI setting, and compound-command permission improvements</title>
+      <link>https://antigravity.google/changelog#1.1.8</link>
+      <description>Added structured output formats (json,stream-json) for print mode, support for custom JSON schema validation, enriched tool and subagent payloads,copyOnSelectconfiguration setting, and improved compound-command permission rules.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.8-5351d8e4</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Markdown format custom agents, /copy index support, progressive /codesearch streaming, default temp directory access, and stability fixes</title>
       <link>https://antigravity.google/changelog#1.1.6</link>
