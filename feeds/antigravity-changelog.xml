@@ -16,6 +16,13 @@
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Preview tabs, MCP timeouts, file attachments, and performance fixes</title>
+      <link>https://antigravity.google/changelog#2.4.3</link>
+      <description>Added preview tabs, attachment support for .json, .md, and .csv files, MCP timeouts, keyboard shortcuts, and various bug fixes and improvements.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.4.3-ee63e64d</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Markdown format custom agents, /copy index support, progressive /codesearch streaming, default temp directory access, and stability fixes</title>
       <link>https://antigravity.google/changelog#1.1.6</link>
       <description>Added support for defining custom agents in Markdown format (agent.md), optional index argument for/copy, progressive streaming in/codesearch, default read access to system temporary directory, and resolved various TUI jitter, artifact viewer, and sandbox fixes.</description>
@@ -27,13 +34,6 @@
       <link>https://antigravity.google/changelog#1.1.7</link>
       <description>Improved permission prompts for compound shell commands, and fixed disabled plugins running hooks, MCP OAuth issuer validation, CJK clipboard copying on Windows, and/btwerror on startup.</description>
       <guid isPermaLink="false">antigravity-changelog-1.1.7-c8c2119d</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Preview tabs, MCP timeouts, file attachments, and performance fixes</title>
-      <link>https://antigravity.google/changelog#2.4.2</link>
-      <description>Added preview tabs, attachment support for .json, .md, and .csv files, MCP timeouts, keyboard shortcuts, and various bug fixes and improvements.</description>
-      <guid isPermaLink="false">antigravity-changelog-2.4.2-ee63e64d</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
