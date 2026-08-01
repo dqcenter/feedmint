@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Slash-command expansion in print mode, non-blocking MCP startup, session-wide permission memory, system temp directory write grants, and hook and UI stability fixes</title>
+      <link>https://antigravity.google/changelog#1.1.9</link>
+      <description>Added slash-command and skill expansion in print mode, non-blocking background MCP loading during interactive startup, session-scoped permission pattern recording, system temporary directory write grants, and stability fixes for stop/PostToolUse hooks, artifact viewer, and MCP authentication.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.9-e5c94ae5</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Print mode structured output formats, custom JSON schema enforcement, copyOnSelect TUI setting, and compound-command permission improvements</title>
       <link>https://antigravity.google/changelog#1.1.8</link>
