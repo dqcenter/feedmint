@@ -7,12 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Gemini Enterprise &amp; WIF authentication, read-only .git sandbox rules, hook ordering improvements, and subagent and CLI fixes</title>
+      <link>https://antigravity.google/changelog#1.1.10</link>
+      <description>Gemini Enterprise Business sign-in, Workforce Identity Federation (WIF) and Application Default Credentials (ADC) auth support, read-only.gitsandbox access, hook ordering improvements, and fixes for subagent tree termination,--model/--effortflag resolution, and multi-select spacebar toggling.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.10-11530226</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Slash-command expansion in print mode, non-blocking MCP startup, session-wide permission memory, system temp directory write grants, and hook and UI stability fixes</title>
       <link>https://antigravity.google/changelog#1.1.9</link>
       <description>Added slash-command and skill expansion in print mode, non-blocking background MCP loading during interactive startup, session-scoped permission pattern recording, system temporary directory write grants, and stability fixes for stop/PostToolUse hooks, artifact viewer, and MCP authentication.</description>
       <guid isPermaLink="false">antigravity-changelog-1.1.9-e5c94ae5</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enterprise sign-in: Gemini Enterprise accounts and Workforce Identity Federation</title>
+      <link>https://antigravity.google/changelog#2.5.0</link>
+      <description>Added enterprise sign-in support for Gemini Enterprise user accounts (with admin controls) and Workforce Identity Federation via Advanced SSO.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.5.0-eed4dfe1</guid>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -30,6 +44,13 @@
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Model-call retry/backoff configuration, LiteRT warm-up scaling, and tool execution error handling</title>
+      <link>https://antigravity.google/changelog#0.1.9</link>
+      <description>Release 0.1.9 of the Google Antigravity Python SDK adds model-call retry/backoff configuration, improves tool registration for custom functions, adds missingBuiltinToolsexports, fixes user audio payload processing, and adds connectionDebugConfigsupport along withToolExecutionErrorhandling.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.9-a8d0f9a5</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Markdown format custom agents, /copy index support, progressive /codesearch streaming, default temp directory access, and stability fixes</title>
       <link>https://antigravity.google/changelog#1.1.6</link>
       <description>Added support for defining custom agents in Markdown format (agent.md), optional index argument for/copy, progressive streaming in/codesearch, default read access to system temporary directory, and resolved various TUI jitter, artifact viewer, and sandbox fixes.</description>
@@ -42,6 +63,13 @@
       <description>Improved permission prompts for compound shell commands, and fixed disabled plugins running hooks, MCP OAuth issuer validation, CJK clipboard copying on Windows, and/btwerror on startup.</description>
       <guid isPermaLink="false">antigravity-changelog-1.1.7-c8c2119d</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3.6 Flash default model, custom subagent instructions, and Pydantic argument coercion</title>
+      <link>https://antigravity.google/changelog#0.1.8</link>
+      <description>Release 0.1.8 of the Google Antigravity Python SDK updates the default text model to Gemini 3.6 Flash, adds support for custom subagent instructions, and implements automatic Pydantic argument coercion for tool calls. It also brings defensive prompt sanitization, configurable tool retries, and comprehensive stability improvements for local agent execution.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.8-569893ee</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Reasoning effort command, model slug pinning, subagent model configuration, and TUI stability improvements</title>
