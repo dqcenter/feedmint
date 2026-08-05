@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 11:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 11:01:53 +0000</lastBuildDate>
+    <item>
+      <title>China keeps the pressure on, while US labs head to Washington</title>
+      <link>https://www.superhuman.ai/p/china-keeps-the-pressure-on-while-us-labs-head-to-washington</link>
+      <description>ALSO: How to build automations using Claude Code</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/china-keeps-the-pressure-on-while-us-labs-head-to-washington</guid>
+      <pubDate>Tue, 04 Aug 2026 11:01:53 +0000</pubDate>
+    </item>
     <item>
       <title>Unreleased OpenAI model solves 10 open problems</title>
       <link>https://www.superhuman.ai/p/unreleased-openai-model-solves-10-open-problems</link>
@@ -68,12 +75,6 @@
       <description>World</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-bombardier-s-jet-smashes-another-speed-record</guid>
       <pubDate>Sun, 26 Jul 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robotics Special: The world's first centaur robot</title>
-      <link>https://www.superhuman.ai/p/robotics-special-the-world-s-first-centaur-robot</link>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-the-world-s-first-centaur-robot</guid>
-      <pubDate>Sat, 25 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
