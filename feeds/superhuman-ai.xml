@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 11:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 11:01:53 +0000</lastBuildDate>
+    <item>
+      <title>AI is boldly going where no AI has gone before</title>
+      <link>https://www.superhuman.ai/p/ai-is-boldly-going-where-no-ai-has-gone-before</link>
+      <description>ALSO: How to automate any task with OpenAI Codex</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/ai-is-boldly-going-where-no-ai-has-gone-before</guid>
+      <pubDate>Wed, 05 Aug 2026 11:01:53 +0000</pubDate>
+    </item>
     <item>
       <title>China keeps the pressure on, while US labs head to Washington</title>
       <link>https://www.superhuman.ai/p/china-keeps-the-pressure-on-while-us-labs-head-to-washington</link>
@@ -68,13 +75,6 @@
       <description>ALSO: How to clean and prepare messy data with ChatGPT</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/humanity-has-entered-the-singularity-says-altman</guid>
       <pubDate>Mon, 27 Jul 2026 11:01:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sunday Special: Bombardier's jet smashes another speed record</title>
-      <link>https://www.superhuman.ai/p/sunday-special-bombardier-s-jet-smashes-another-speed-record</link>
-      <description>World</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-bombardier-s-jet-smashes-another-speed-record</guid>
-      <pubDate>Sun, 26 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
