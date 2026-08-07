@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Vim modal editing mode, Vim-aware submission, print-mode slash-command enhancements, and various CLI and permission fixes</title>
+      <link>https://antigravity.google/changelog#1.1.11</link>
+      <description>Vim modal editing mode with Normal, Insert, Visual, and Visual Line modes, Vim-aware prompt submission, Vim editing in comment/diff views, print-mode slash-command and non-interactive enhancements, plugin configuration improvements, and fixes for command auto-approval, MCP servers, and autocomplete history.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.11-6593d47b</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prioritized inference tiers, real-time token usage streaming, and context-aware hook decorators</title>
+      <link>https://antigravity.google/changelog#0.1.10</link>
+      <description>The 0.1.10 release introduces support for Gemini Prioritized Inference service tiers, real-time token usage event streaming, stateful context-aware hook decorators, and explicit tool call correlation IDs across hook callbacks. It also standardizes default system instruction merging behavior, fixes WebSocket compaction events, and expands local Gemma model documentation.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.10-826009ad</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Gemini Enterprise &amp; WIF authentication, read-only .git sandbox rules, hook ordering improvements, and subagent and CLI fixes</title>
       <link>https://antigravity.google/changelog#1.1.10</link>
