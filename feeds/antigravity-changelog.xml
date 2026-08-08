@@ -16,6 +16,13 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Faster long conversations, more reliable hooks and subagents</title>
+      <link>https://antigravity.google/changelog#2.6.0</link>
+      <description>Conversations with long histories now open faster, improved custom hooks and subagents behavior, and administrator policies for connected tool servers are applied correctly — plus a broad set of fixes across chat, comments and the file viewer.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.6.0-26bccb18</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Prioritized inference tiers, real-time token usage streaming, and context-aware hook decorators</title>
       <link>https://antigravity.google/changelog#0.1.10</link>
       <description>The 0.1.10 release introduces support for Gemini Prioritized Inference service tiers, real-time token usage event streaming, stateful context-aware hook decorators, and explicit tool call correlation IDs across hook callbacks. It also standardizes default system instruction merging behavior, fixes WebSocket compaction events, and expands local Gemma model documentation.</description>
