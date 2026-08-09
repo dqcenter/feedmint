@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 11:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 14:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Robotics Special: Unitree prices IPO at eye-watering $9B</title>
+      <link>https://www.superhuman.ai/p/robotics-special-unitree-prices-ipo-at-eye-watering-9b</link>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-unitree-prices-ipo-at-eye-watering-9b</guid>
+      <pubDate>Sat, 08 Aug 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Former OpenAI researcher launches desktop agent</title>
       <link>https://www.superhuman.ai/p/former-openai-researcher-launches-desktop-agent</link>
@@ -68,13 +74,6 @@
       <description>ALSO: How to vibe code apps with custom themes</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/ai-content-creation-hits-new-heights</guid>
       <pubDate>Thu, 30 Jul 2026 11:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 1,000 AI employees urge action</title>
-      <link>https://www.superhuman.ai/p/over-1-000-ai-employees-urge-action</link>
-      <description>ALSO: How to record a Skill in Claude and reuse it</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/over-1-000-ai-employees-urge-action</guid>
-      <pubDate>Wed, 29 Jul 2026 11:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
