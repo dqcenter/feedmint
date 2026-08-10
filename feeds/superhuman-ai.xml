@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 14:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Sunday Special: AI creates viable new viruses not found in nature</title>
+      <link>https://www.superhuman.ai/p/sunday-special-ai-creates-viable-new-viruses-not-found-in-nature</link>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-ai-creates-viable-new-viruses-not-found-in-nature</guid>
+      <pubDate>Sun, 09 Aug 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Robotics Special: Unitree prices IPO at eye-watering $9B</title>
       <link>https://www.superhuman.ai/p/robotics-special-unitree-prices-ipo-at-eye-watering-9b</link>
@@ -67,13 +73,6 @@
       <description>ALSO: How to edit videos using ChatGPT with zero editing skills</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/two-startups-want-to-solve-content-and-invoicing</guid>
       <pubDate>Fri, 31 Jul 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI content creation hits new heights</title>
-      <link>https://www.superhuman.ai/p/ai-content-creation-hits-new-heights</link>
-      <description>ALSO: How to vibe code apps with custom themes</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/ai-content-creation-hits-new-heights</guid>
-      <pubDate>Thu, 30 Jul 2026 11:01:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
