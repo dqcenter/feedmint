@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 11:01:53 +0000</lastBuildDate>
+    <item>
+      <title>SpaceXAI debuts a top image model</title>
+      <link>https://www.superhuman.ai/p/spacexai-debuts-a-top-image-model</link>
+      <description>ALSO: How to find your next job role with Claude</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/spacexai-debuts-a-top-image-model</guid>
+      <pubDate>Mon, 10 Aug 2026 11:01:53 +0000</pubDate>
+    </item>
     <item>
       <title>Sunday Special: AI creates viable new viruses not found in nature</title>
       <link>https://www.superhuman.ai/p/sunday-special-ai-creates-viable-new-viruses-not-found-in-nature</link>
@@ -66,13 +73,6 @@
       <link>https://www.superhuman.ai/p/robotics-special-google-launches-the-intelligence-layer-for-robotics</link>
       <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-google-launches-the-intelligence-layer-for-robotics</guid>
       <pubDate>Sat, 01 Aug 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday July 31</title>
-      <link>https://www.superhuman.ai/p/two-startups-want-to-solve-content-and-invoicing</link>
-      <description>ALSO: How to edit videos using ChatGPT with zero editing skills</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/two-startups-want-to-solve-content-and-invoicing</guid>
-      <pubDate>Fri, 31 Jul 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
