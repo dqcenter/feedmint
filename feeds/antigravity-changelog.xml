@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Artifact heading outline, print-mode commands, artifact alerts/carousels, improved terminal hyperlinks, and extensive CLI fixes</title>
+      <link>https://antigravity.google/changelog#1.1.12</link>
+      <description>Artifact outline viewer navigation, print-mode read-only slash commands, machine-readable output formodelsandagents, alert callout and carousel rendering in markdown artifacts, terminal hyperlink improvements, and fixes for headless--mode, startup diagnostics, subagent messaging, and quota reporting.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.12-0ba32926</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reliability, Performance Gains, and User Experience Polish</title>
+      <link>https://antigravity.google/changelog#2.7.1</link>
+      <description>Antigravity 2.7.1 introduces visual side-by-side previews for image diffs alongside comprehensive screen-reader and keyboard accessibility enhancements. This update also delivers key performance boosts, bug fixes, and UX refinements across chat interactions and project navigation.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.7.1-3738f274</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Vim modal editing mode, Vim-aware submission, print-mode slash-command enhancements, and various CLI and permission fixes</title>
       <link>https://antigravity.google/changelog#1.1.11</link>
