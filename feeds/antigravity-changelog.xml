@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Windows Media Attachments and Chat Responsiveness Improvements</title>
+      <link>https://antigravity.google/changelog#2.5.4</link>
+      <description>Bug fixes addressing media attachment failures on Windows and improving message responsiveness when interacting with the agent.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.5.4-d11d11b2</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Queued Messages, File Attachments, and Performance Improvements</title>
+      <link>https://antigravity.google/changelog#2.5.2</link>
+      <description>Support for queued messages, plain text, PDF, and markdown file attachments, model thinking level selector, and major conversation performance improvements.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.5.2-e16987e9</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Persistent Sidebar Folders, Crash Fixes, and UI Enhancements</title>
+      <link>https://antigravity.google/changelog#2.8.0</link>
+      <description>Antigravity improves workspace organization by persisting your sidebar folder states. This release also ensures reliable file and artifact previews.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.8.0-08d77161</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Artifact heading outline, print-mode commands, artifact alerts/carousels, improved terminal hyperlinks, and extensive CLI fixes</title>
       <link>https://antigravity.google/changelog#1.1.12</link>
