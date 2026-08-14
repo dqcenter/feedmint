@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:01:53 +0000</lastBuildDate>
+    <item>
+      <title>SpaceXAI catches up to the frontier</title>
+      <link>https://www.superhuman.ai/p/spacexai-catches-up-to-the-frontier</link>
+      <description>ALSO: How to build an AI agent engineering team (without hiring anyone)</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/spacexai-catches-up-to-the-frontier</guid>
+      <pubDate>Thu, 13 Aug 2026 11:01:53 +0000</pubDate>
+    </item>
     <item>
       <title>SpaceXAI releases Grok Bot, a 24/7 teammate</title>
       <link>https://www.superhuman.ai/p/spacexai-releases-grok-bot-a-24-7-teammate</link>
@@ -68,13 +75,6 @@
       <description>ALSO: How to build automations using Claude Code</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/china-keeps-the-pressure-on-while-us-labs-head-to-washington</guid>
       <pubDate>Tue, 04 Aug 2026 11:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unreleased OpenAI model solves 10 open problems</title>
-      <link>https://www.superhuman.ai/p/unreleased-openai-model-solves-10-open-problems</link>
-      <description>ALSO: How to</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/unreleased-openai-model-solves-10-open-problems</guid>
-      <pubDate>Mon, 03 Aug 2026 11:01:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

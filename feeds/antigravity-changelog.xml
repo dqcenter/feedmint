@@ -10,9 +10,16 @@
     <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Windows Media Attachments and Chat Responsiveness Improvements</title>
-      <link>https://antigravity.google/changelog#2.5.4</link>
+      <link>https://antigravity.google/changelog#2.5.5</link>
       <description>Bug fixes addressing media attachment failures on Windows and improving message responsiveness when interacting with the agent.</description>
-      <guid isPermaLink="false">antigravity-changelog-2.5.4-d11d11b2</guid>
+      <guid isPermaLink="false">antigravity-changelog-2.5.5-d11d11b2</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chat Responsiveness Improvements</title>
+      <link>https://antigravity.google/changelog#2.8.1</link>
+      <description>Bug fixes addressing message responsiveness when interacting with the agent.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.8.1-9d71b836</guid>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
