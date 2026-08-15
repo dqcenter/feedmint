@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>GEMINI_API_KEY authentication, custom agent task management, embedded ripgrep caching, and conversation database fixes</title>
+      <link>https://antigravity.google/changelog#1.1.13</link>
+      <description>DirectGEMINI_API_KEYauthentication support,/codesearchfallback resilience, cached artifact list scrolling,manage_taskaccess for custom declarative agents, embedded ripgrep caching with SHA-256 verification, and critical fixes for trajectory truncation, database growth, transcript race conditions, and subagent path validation.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.13-58cc7a72</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix proto deserialization regression for ActionGenerateImage output paths</title>
+      <link>https://antigravity.google/changelog#0.1.12</link>
+      <description>The 0.1.12 release fixes a client-side proto deserialization regression in image generation result handling.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.12-7f515ca8</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Windows Media Attachments and Chat Responsiveness Improvements</title>
       <link>https://antigravity.google/changelog#2.5.5</link>
@@ -35,6 +49,13 @@
       <description>Antigravity improves workspace organization by persisting your sidebar folder states. This release also ensures reliable file and artifact previews.</description>
       <guid isPermaLink="false">antigravity-changelog-2.8.0-08d77161</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Default Gemini 3.7 Flash upgrade, session budget limits, Vertex AI Express Mode, and autonomous behavior modes</title>
+      <link>https://antigravity.google/changelog#0.1.11</link>
+      <description>The 0.1.11 release updates the default model togemini-3.7-flash, introduces session-level budget enforcement and turn termination stop reasons, Vertex AI Express Mode authentication, and an autonomous agent behavior setting. It also expands tool hook metadata, resolves string annotation coercion for postponed evaluation, and improves MCP server and subagent stability.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.11-ed9fa4c9</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Artifact heading outline, print-mode commands, artifact alerts/carousels, improved terminal hyperlinks, and extensive CLI fixes</title>
