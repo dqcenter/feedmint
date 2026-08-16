@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 14:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Robotics Special: Honor's Robot Phone finally launches</title>
+      <link>https://www.superhuman.ai/p/robotics-special-honor-s-robot-phone-finally-launches</link>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-honor-s-robot-phone-finally-launches</guid>
+      <pubDate>Sat, 15 Aug 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ChatGPT gets "Computer History" memory</title>
       <link>https://www.superhuman.ai/p/chatgpt-gets-computer-history-memory</link>
@@ -68,13 +74,6 @@
       <description>ALSO: How to turn your images into Canva designs</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/google-s-ai-exodus</guid>
       <pubDate>Thu, 06 Aug 2026 11:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI is boldly going where no AI has gone before</title>
-      <link>https://www.superhuman.ai/p/ai-is-boldly-going-where-no-ai-has-gone-before</link>
-      <description>ALSO: How to automate any task with OpenAI Codex</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/ai-is-boldly-going-where-no-ai-has-gone-before</guid>
-      <pubDate>Wed, 05 Aug 2026 11:01:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
