@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 12:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Firefox rolls out an AI web browser</title>
+      <link>https://www.superhuman.ai/p/firefox-rolls-out-an-ai-web-browser</link>
+      <description>ALSO: How to Reverse-Engineer Viral Videos with AI</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/firefox-rolls-out-an-ai-web-browser</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI's $3T elephant in the room</title>
+      <link>https://www.superhuman.ai/p/ai-s-3t-elephant-in-the-room</link>
+      <description>ALSO: How to turn any YouTube video into a Claude Skill</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/ai-s-3t-elephant-in-the-room</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>An unlikely lab becomes the most-downloaded globally</title>
       <link>https://www.superhuman.ai/p/an-unlikely-lab-becomes-the-most-downloaded-globally</link>
@@ -61,18 +75,6 @@
       <description>ALSO: How to find your next job role with Claude</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/spacexai-debuts-a-top-image-model</guid>
       <pubDate>Mon, 10 Aug 2026 11:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sunday Special: AI creates viable new viruses not found in nature</title>
-      <link>https://www.superhuman.ai/p/sunday-special-ai-creates-viable-new-viruses-not-found-in-nature</link>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-ai-creates-viable-new-viruses-not-found-in-nature</guid>
-      <pubDate>Sun, 09 Aug 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robotics Special: Unitree prices IPO at eye-watering $9B</title>
-      <link>https://www.superhuman.ai/p/robotics-special-unitree-prices-ipo-at-eye-watering-9b</link>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-unitree-prices-ipo-at-eye-watering-9b</guid>
-      <pubDate>Sat, 08 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
