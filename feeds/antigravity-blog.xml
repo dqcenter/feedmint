@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Introducing IDE Extensions</title>
+      <link>https://antigravity.google/blog/antigravity-ide-extensions</link>
+      <guid isPermaLink="true">https://antigravity.google/blog/antigravity-ide-extensions</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bringing Antigravity to Gemini Enterprise: Agentic workflows for every developer</title>
+      <link>https://antigravity.google/blog/antigravity-enterprise</link>
+      <guid isPermaLink="true">https://antigravity.google/blog/antigravity-enterprise</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Gemini 3.7 Flash in Google Antigravity</title>
       <link>https://antigravity.google/blog/gemini-3-7-flash-in-google-antigravity</link>
@@ -25,18 +37,6 @@
       <link>https://antigravity.google/blog/gemini-3-6-flash-in-google-antigravity</link>
       <guid isPermaLink="true">https://antigravity.google/blog/gemini-3-6-flash-in-google-antigravity</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Antigravity in Gemini Enterprise</title>
-      <link>https://antigravity.google/blog/google-antigravity-for-enterprises</link>
-      <guid isPermaLink="true">https://antigravity.google/blog/google-antigravity-for-enterprises</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Antigravity SDK</title>
-      <link>https://antigravity.google/blog/introducing-google-antigravity-sdk</link>
-      <guid isPermaLink="true">https://antigravity.google/blog/introducing-google-antigravity-sdk</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Google Antigravity CLI</title>

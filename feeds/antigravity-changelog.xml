@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Faster project switching, redesigned Customizations settings, and bug fixes</title>
+      <link>https://antigravity.google/changelog#2.9.1</link>
+      <description>This update focuses on core performance, workspace polish, and reliability—delivering faster startup times, improved sidebar navigation, and cleaner error recovery alongside bug fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.9.1-01f0e43f</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Enterprise sign-in fast path, MCP OAuth metadata documents, /context scrolling, and markdown agent customizations</title>
       <link>https://antigravity.google/changelog#1.1.14</link>
