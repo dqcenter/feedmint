@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:02:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic launches The Claude Academy with 355 resources</title>
+      <link>https://www.superhuman.ai/p/anthropic-launches-the-claude-academy-with-355-resources</link>
+      <description>ALSO: How to do a digital declutter with Grok bot</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/anthropic-launches-the-claude-academy-with-355-resources</guid>
+      <pubDate>Fri, 21 Aug 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Stripe says the singularity began months ago</title>
       <link>https://www.superhuman.ai/p/stripe-says-the-singularity-began-months-ago</link>
@@ -68,13 +75,6 @@
       <description>ALSO: How to design email marketing campaigns with AI</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/spacexai-releases-grok-bot-a-24-7-teammate</guid>
       <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zuck's AI manifesto</title>
-      <link>https://www.superhuman.ai/p/zuck-s-ai-manifesto</link>
-      <description>ALSO: How to delegate work in Slack with Claude Tag</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/zuck-s-ai-manifesto</guid>
-      <pubDate>Tue, 11 Aug 2026 11:01:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
