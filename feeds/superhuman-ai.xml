@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 14:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Robotics Special: Unitree lands a blockbuster IPO</title>
+      <link>https://www.superhuman.ai/p/robotics-special-unitree-lands-a-blockbuster-ipo</link>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-unitree-lands-a-blockbuster-ipo</guid>
+      <pubDate>Sat, 22 Aug 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic launches The Claude Academy with 355 resources</title>
       <link>https://www.superhuman.ai/p/anthropic-launches-the-claude-academy-with-355-resources</link>
@@ -68,13 +74,6 @@
       <description>ALSO: How to build an AI agent engineering team (without hiring anyone)</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/spacexai-catches-up-to-the-frontier</guid>
       <pubDate>Thu, 13 Aug 2026 11:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>SpaceXAI releases Grok Bot, a 24/7 teammate</title>
-      <link>https://www.superhuman.ai/p/spacexai-releases-grok-bot-a-24-7-teammate</link>
-      <description>ALSO: How to design email marketing campaigns with AI</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/spacexai-releases-grok-bot-a-24-7-teammate</guid>
-      <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
