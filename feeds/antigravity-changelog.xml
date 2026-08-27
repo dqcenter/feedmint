@@ -7,13 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Model selection command arguments, reasoning effort autocompletion, transient retry handling, and UI performance fixes</title>
+      <link>https://antigravity.google/changelog#1.1.22</link>
+      <description>Adds direct/modelswitching with inline ghost text autocompletion, dynamic/efforthint completion, artifact filesystem event coalescing, and fixes for transient HTTP 502 retries, CPU redraw utilization, and Windows path resolution.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.22-d567c230</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Voice dictation, embedded ripgrep code search, status line cost metrics, and UTF-8 encoding fixes</title>
       <link>https://antigravity.google/changelog#1.1.21</link>
       <description>Adds/voicedictation withmic-serveSSH forwarding, embedded ripgrep for consistent agent code search, custom status line cost tracking, granular script runner permission suggestions, and UTF-8 file editing and MCP error fixes.</description>
       <guid isPermaLink="false">antigravity-changelog-1.1.21-cf5ff84e</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generative UI and UI improvements</title>
+      <link>https://antigravity.google/changelog#2.11.0</link>
+      <description>Antigravity 2.11.0 adds generative UI to render HTML artifacts inline in chat, alongside several UX improvements and bug fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.11.0-69b1436f</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subagent-scoped custom tools, context compaction lifecycle hooks, and universal JSON schema normalization</title>
+      <link>https://antigravity.google/changelog#0.1.15</link>
+      <description>The 0.1.15 release introduces subagent-exclusive tool scoping to reduce context overhead, adds anon_compactionlifecycle hook for observing context checkpointing, expands platform compatibility with Alpine Linux musl wheels, resolves workspace path normalization and custom Vertex endpoint routing, and adds universal JSON Schema normalization for custom Python tools when targeting local OpenAI-compatible LLM endpoints.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.15-d3266c8f</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Skill icon branding, empty directory indexing in @-completion, and headless exit code fixes</title>
