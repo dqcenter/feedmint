@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 11:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:02:50 +0000</lastBuildDate>
+    <item>
+      <title>AI is hitting an inflection point, says Jensen</title>
+      <link>https://www.superhuman.ai/p/ai-is-hitting-an-inflection-point-says-jensen</link>
+      <description>ALSO: How to build an AI GTM Team with Grok bot</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/ai-is-hitting-an-inflection-point-says-jensen</guid>
+      <pubDate>Fri, 28 Aug 2026 11:02:50 +0000</pubDate>
+    </item>
     <item>
       <title>The research duo building physics-first AI</title>
       <link>https://www.superhuman.ai/p/the-research-duo-building-physics-first-ai</link>
@@ -68,13 +75,6 @@
       <description>ALSO: How to Reverse-Engineer Viral Videos with AI</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/firefox-rolls-out-an-ai-web-browser</guid>
       <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI's $3T elephant in the room</title>
-      <link>https://www.superhuman.ai/p/ai-s-3t-elephant-in-the-room</link>
-      <description>ALSO: How to turn any YouTube video into a Claude Skill</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/ai-s-3t-elephant-in-the-room</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
