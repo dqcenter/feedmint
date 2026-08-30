@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 11:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Robotics Special: Records tumble at China's World Humanoid Robot Games</title>
+      <link>https://www.superhuman.ai/p/robotics-special-records-tumble-at-china-s-world-humanoid-robot-games</link>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-records-tumble-at-china-s-world-humanoid-robot-games</guid>
+      <pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI is hitting an inflection point, says Jensen</title>
       <link>https://www.superhuman.ai/p/ai-is-hitting-an-inflection-point-says-jensen</link>
@@ -68,13 +74,6 @@
       <description>ALSO: How to create a daily work brief using ChatGPT Work</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/stripe-says-the-singularity-began-months-ago</guid>
       <pubDate>Thu, 20 Aug 2026 11:02:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Firefox rolls out an AI web browser</title>
-      <link>https://www.superhuman.ai/p/firefox-rolls-out-an-ai-web-browser</link>
-      <description>ALSO: How to Reverse-Engineer Viral Videos with AI</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/firefox-rolls-out-an-ai-web-browser</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
