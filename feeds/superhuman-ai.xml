@@ -7,7 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:02:54 +0000</lastBuildDate>
+    <item>
+      <title>1,200 agents colluded against OpenAI's researchers</title>
+      <link>https://www.superhuman.ai/p/1-200-agents-colluded-against-openai-s-researchers</link>
+      <description>ALSO: How to turn Figma mockups into polished UI with ChatGPT</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/1-200-agents-colluded-against-openai-s-researchers</guid>
+      <pubDate>Mon, 31 Aug 2026 11:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sunday Special: FDA greenlights drug to transform pancreatic cancer care</title>
+      <link>https://www.superhuman.ai/p/sunday-special-fda-greenlights-drug-to-transform-pancreatic-cancer-care</link>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-fda-greenlights-drug-to-transform-pancreatic-cancer-care</guid>
+      <pubDate>Sun, 30 Aug 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Robotics Special: Records tumble at China's World Humanoid Robot Games</title>
       <link>https://www.superhuman.ai/p/robotics-special-records-tumble-at-china-s-world-humanoid-robot-games</link>
@@ -60,20 +73,6 @@
       <link>https://www.superhuman.ai/p/robotics-special-unitree-lands-a-blockbuster-ipo</link>
       <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-unitree-lands-a-blockbuster-ipo</guid>
       <pubDate>Sat, 22 Aug 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic launches The Claude Academy with 355 resources</title>
-      <link>https://www.superhuman.ai/p/anthropic-launches-the-claude-academy-with-355-resources</link>
-      <description>ALSO: How to do a digital declutter with Grok bot</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/anthropic-launches-the-claude-academy-with-355-resources</guid>
-      <pubDate>Fri, 21 Aug 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stripe says the singularity began months ago</title>
-      <link>https://www.superhuman.ai/p/stripe-says-the-singularity-began-months-ago</link>
-      <description>ALSO: How to create a daily work brief using ChatGPT Work</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/stripe-says-the-singularity-began-months-ago</guid>
-      <pubDate>Thu, 20 Aug 2026 11:02:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
