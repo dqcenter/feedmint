@@ -7,7 +7,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Workspace-grouped resume view, Gemini 3.8 Flash support, and Markdown agent ambient customization inheritance</title>
+      <link>https://antigravity.google/changelog#1.1.25</link>
+      <description>Adds an opt-in workspace-grouped view to the/resumepicker withCtrl+Ftoggling, adds Gemini 3.8 Flash to the model catalog forGEMINI_API_KEYusers, updates Markdown-defined custom agents to inherit ambient skills, rules, and subagents by default, and delivers fixes for long MCP OAuth authorization codes, Windows skill path separators,/boostworker tools, and runtime nil pointer crashes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.25-9faef873</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP panel navigation improvements, multi-line comment support in mcp_config.json, and headless stream cleanup</title>
+      <link>https://antigravity.google/changelog#1.1.24</link>
+      <description>Improves/mcppanel arrow key navigation and action cycling, adds support for comments and trailing commas inmcp_config.json, ensures headless CLI streams close cleanly on exit, and delivers fixes for duplicate agent listings, deleted working directory startup, and/btwside questions with active goals.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.24-b20315d1</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting, /boost, and improved Settings</title>
+      <link>https://antigravity.google/changelog#2.12.0</link>
+      <description>Antigravity 2.12.0 includes several UX improvements across settings, the chat panel, and sidebar navigation. This release also includes a new slash command for paid users.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.12.0-8ca206bd</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model autocompletion improvements, subagent streaming optimizations, and MCP tool resolution fixes</title>
+      <link>https://antigravity.google/changelog#1.1.23</link>
+      <description>Improves/modelautocompletion with Tab acceptance, reduces subagent streaming telemetry overhead, and delivers stability fixes for prompt hooks, MCP tools in subagents, tool call IDs in request history, and OAuth token refreshes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.23-db102d9b</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Default Gemini 3.8 Flash model upgrade, lightweight agent configuration, and Vertex AI Express mode</title>
+      <link>https://antigravity.google/changelog#0.1.16</link>
+      <description>The 0.1.16 release updates the default model for new agents togemini-3.8-flashfor enhanced reasoning capabilities, introduces a.lightweight()method on agent configs for small and local models, adds Vertex AI Express mode with API keys, and expands tool runner support for callable classes and dataclass functors.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.16-70bf53b3</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Model selection command arguments, reasoning effort autocompletion, transient retry handling, and UI performance fixes</title>
       <link>https://antigravity.google/changelog#1.1.22</link>
