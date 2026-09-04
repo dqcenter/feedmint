@@ -16,6 +16,13 @@
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Gemini 3.8 Flash using ADC in AGY Enterprise</title>
+      <link>https://antigravity.google/changelog#2.12.2</link>
+      <description>Antigravity 2.12.2 enables enterprise users to access Google's flagship Gemini 3.8 Flash reasoning models using ADC.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.12.2-e3dd7ee1</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>MCP panel navigation improvements, multi-line comment support in mcp_config.json, and headless stream cleanup</title>
       <link>https://antigravity.google/changelog#1.1.24</link>
       <description>Improves/mcppanel arrow key navigation and action cycling, adds support for comments and trailing commas inmcp_config.json, ensures headless CLI streams close cleanly on exit, and delivers fixes for duplicate agent listings, deleted working directory startup, and/btwside questions with active goals.</description>
