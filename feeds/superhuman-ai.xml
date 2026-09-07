@@ -7,7 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Astra becomes generally available as AI's progress accelerates</title>
+      <link>https://www.superhuman.ai/p/astra-becomes-generally-available-as-ai-s-progress-accelerates</link>
+      <description>ALSO: How to set an intelligence floor for your AI application</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/astra-becomes-generally-available-as-ai-s-progress-accelerates</guid>
+      <pubDate>Mon, 07 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sunday Special: The sounds of the Jurassic forest</title>
+      <link>https://www.superhuman.ai/p/sunday-special-the-sounds-of-the-jurassic-forest</link>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-the-sounds-of-the-jurassic-forest</guid>
+      <pubDate>Sun, 06 Sep 2026 14:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>Robotics Special: Tesla Cybercabs roll out on Austin streets</title>
       <link>https://www.superhuman.ai/p/robotics-special-tesla-cybercabs-roll-out-on-austin-streets</link>
@@ -60,20 +73,6 @@
       <link>https://www.superhuman.ai/p/robotics-special-records-tumble-at-china-s-world-humanoid-robot-games</link>
       <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-records-tumble-at-china-s-world-humanoid-robot-games</guid>
       <pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI is hitting an inflection point, says Jensen</title>
-      <link>https://www.superhuman.ai/p/ai-is-hitting-an-inflection-point-says-jensen</link>
-      <description>ALSO: How to build an AI GTM Team with Grok bot</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/ai-is-hitting-an-inflection-point-says-jensen</guid>
-      <pubDate>Fri, 28 Aug 2026 11:02:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The research duo building physics-first AI</title>
-      <link>https://www.superhuman.ai/p/the-research-duo-building-physics-first-ai</link>
-      <description>ALSO: How to dictate anywhere on your device with Wispr Flow</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/the-research-duo-building-physics-first-ai</guid>
-      <pubDate>Thu, 27 Aug 2026 11:02:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
