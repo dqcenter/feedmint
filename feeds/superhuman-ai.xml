@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:02:57 +0000</lastBuildDate>
+    <item>
+      <title>Viral ‘eco-friendly‘ AI app draws backlash</title>
+      <link>https://www.superhuman.ai/p/viral-eco-friendly-ai-app-draws-backlash</link>
+      <description>ALSO: How to set up writing styles in ChatGPT</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/viral-eco-friendly-ai-app-draws-backlash</guid>
+      <pubDate>Tue, 08 Sep 2026 11:02:57 +0000</pubDate>
+    </item>
     <item>
       <title>Astra becomes generally available as AI's progress accelerates</title>
       <link>https://www.superhuman.ai/p/astra-becomes-generally-available-as-ai-s-progress-accelerates</link>
@@ -67,12 +74,6 @@
       <link>https://www.superhuman.ai/p/sunday-special-fda-greenlights-drug-to-transform-pancreatic-cancer-care</link>
       <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-fda-greenlights-drug-to-transform-pancreatic-cancer-care</guid>
       <pubDate>Sun, 30 Aug 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robotics Special: Records tumble at China's World Humanoid Robot Games</title>
-      <link>https://www.superhuman.ai/p/robotics-special-records-tumble-at-china-s-world-humanoid-robot-games</link>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-records-tumble-at-china-s-world-humanoid-robot-games</guid>
-      <pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
