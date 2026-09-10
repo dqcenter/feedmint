@@ -7,7 +7,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Background service registration with remote-control, expanded half-page scrolling, and content safety reporting</title>
+      <link>https://antigravity.google/changelog#1.2.0</link>
+      <description>Introduces remote-control service manager subcommands to run the CLI as a persistent background daemon, broadens half-page scrolling support and keybindings, and resolves issues with content filter handling, scratch directory watchers, plugin MCP initialization, schema validation, and conversation resumption.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.2.0-061978e2</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model API retry resilience, headless print optimizations, and detailed tool approval prompts</title>
+      <link>https://antigravity.google/changelog#1.1.28</link>
+      <description>Improves resilience to transient model API errors with extended exponential backoff, accelerates startup and sign-in by reading cached credentials, streamlines headless execution and error reporting, enhances tool approval prompts with contextual action descriptions and reasons, and fixes issues across plugin reinstalls, plugin MCP working directories, subagent lifecycle states, and command memory leaks.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.28-5d61abf0</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mid-conversation model execution, custom agent subagent dependencies, and MCP parameter validation fixes</title>
+      <link>https://antigravity.google/changelog#1.1.27</link>
+      <description>Introduces /modelfor running one-off prompts with alternative models, adds conversation_title metadata to status line scripts, adds subagent dependency declarations in custom agent Markdown frontmatter, and delivers fixes for MCP argument schema validation, headless permission handling, Vim normal mode shortcuts, and cross-conversation artifact access prompts.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.27-eb6834c0</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artifact viewer half-page scrolling, workspace picker grouping setting, and SQLite WAL flushing</title>
+      <link>https://antigravity.google/changelog#1.1.26</link>
+      <description>Adds half-page scrolling (Ctrl+D / Ctrl+U) to the artifact viewer, adds the pickerGrouping configuration setting for /resume, improves Mermaid flowchart ASCII rendering, updates unselected model reasoning defaults to medium, and resolves issues with worktree cleanup, SQLite WAL checkpointing on exit, and subagent approval prompts.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.1.26-5c56080b</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Workspace-grouped resume view, Gemini 3.8 Flash support, and Markdown agent ambient customization inheritance</title>
       <link>https://antigravity.google/changelog#1.1.25</link>
