@@ -23,6 +23,13 @@
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Introducing new Documents section and several UX enhancements for organization and control</title>
+      <link>https://antigravity.google/changelog#2.13.0</link>
+      <description>Antigravity 2.13.0 includes 16 improvements and 16 bug fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.13.0-ed7fa408</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Mid-conversation model execution, custom agent subagent dependencies, and MCP parameter validation fixes</title>
       <link>https://antigravity.google/changelog#1.1.27</link>
       <description>Introduces /modelfor running one-off prompts with alternative models, adds conversation_title metadata to status line scripts, adds subagent dependency declarations in custom agent Markdown frontmatter, and delivers fixes for MCP argument schema validation, headless permission handling, Vim normal mode shortcuts, and cross-conversation artifact access prompts.</description>
