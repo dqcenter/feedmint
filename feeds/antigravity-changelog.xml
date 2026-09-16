@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>New Permissions System &amp; Terminal and Git version control for Enterprise</title>
+      <link>https://antigravity.google/changelog#2.14.0</link>
+      <description>Enterprise and Business accounts can now use the integrated terminal and Git version control in the sidebar. This release also cuts memory use in long conversations and fixes a range of stability and accessibility issues.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.14.0-5a3cc6c6</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Background service registration with remote-control, expanded half-page scrolling, and content safety reporting</title>
       <link>https://antigravity.google/changelog#1.2.0</link>
@@ -25,7 +32,7 @@
     <item>
       <title>Introducing new Documents section and several UX enhancements for organization and control</title>
       <link>https://antigravity.google/changelog#2.13.0</link>
-      <description>Antigravity 2.13.0 includes 16 improvements and 16 bug fixes.</description>
+      <description>External files such as Google Drive links, PDFs, and Office documents now have their own Documents section in the sidebar. This release also adds a virtualized viewer for large code and data artifacts, an option to hide whitespace-only changes in diffs, and clearer warnings when a configuration file fails to parse.</description>
       <guid isPermaLink="false">antigravity-changelog-2.13.0-ed7fa408</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -53,7 +60,7 @@
     <item>
       <title>Gemini 3.8 Flash using ADC in AGY Enterprise</title>
       <link>https://antigravity.google/changelog#2.12.2</link>
-      <description>Antigravity 2.12.2 enables enterprise users to access Google's flagship Gemini 3.8 Flash reasoning models using ADC.</description>
+      <description>Enterprise users can now access Google's flagship Gemini 3.8 Flash reasoning models using ADC.</description>
       <guid isPermaLink="false">antigravity-changelog-2.12.2-e3dd7ee1</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -67,7 +74,7 @@
     <item>
       <title>Quoting, /boost, and improved Settings</title>
       <link>https://antigravity.google/changelog#2.12.0</link>
-      <description>Antigravity 2.12.0 includes several UX improvements across settings, the chat panel, and sidebar navigation. This release also includes a new slash command for paid users.</description>
+      <description>You can now highlight part of a response and quote it as context for a follow-up prompt, and paid users get the new/boostcommand for a deeper multi-agent reasoning pass. This release also brings UX improvements across settings, the chat panel, and sidebar navigation.</description>
       <guid isPermaLink="false">antigravity-changelog-2.12.0-8ca206bd</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -102,7 +109,7 @@
     <item>
       <title>Generative UI and UI improvements</title>
       <link>https://antigravity.google/changelog#2.11.0</link>
-      <description>Antigravity 2.11.0 adds generative UI to render HTML artifacts inline in chat, alongside several UX improvements and bug fixes.</description>
+      <description>Generative UI renders HTML artifacts inline in chat, with support for KaTeX math and Chart.js and Plotly charts. This release also adds side-by-side terminal splits, the Darcula theme, and@path/to/filereferences inside AGENTS.md and custom rule files.</description>
       <guid isPermaLink="false">antigravity-changelog-2.11.0-69b1436f</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -123,7 +130,7 @@
     <item>
       <title>Embedded Terminals, Git Version Control, and Audio Attachments</title>
       <link>https://antigravity.google/changelog#2.10.0</link>
-      <description>Antigravity 2.10.0 introduces an embedded terminal and Git-native version control directly in the sidebar, alongside audio file attachments, interactive image commenting, rich MCP tool execution previews, and core performance optimizations.</description>
+      <description>An embedded terminal and Git-native version control now live directly in the sidebar. This release also adds audio file attachments, interactive image commenting, richer previews for MCP tool execution, and core performance work.</description>
       <guid isPermaLink="false">antigravity-changelog-2.10.0-47b3d3d0</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>

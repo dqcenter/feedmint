@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:02:57 +0000</lastBuildDate>
+    <item>
+      <title>ChatGPT's co-inventor drops a model that can't hallucinate</title>
+      <link>https://www.superhuman.ai/p/chatgpt-s-co-inventor-drops-a-model-that-can-t-hallucinate</link>
+      <description>ALSO: How to turn your inbox into an automatic action list with Grok Bot</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/chatgpt-s-co-inventor-drops-a-model-that-can-t-hallucinate</guid>
+      <pubDate>Wed, 16 Sep 2026 11:02:57 +0000</pubDate>
+    </item>
     <item>
       <title>The sovereign AI race is on</title>
       <link>https://www.superhuman.ai/p/the-sovereign-ai-race-is-on</link>
@@ -68,12 +75,6 @@
       <description>ALSO: How to set an intelligence floor for your AI application</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/astra-becomes-generally-available-as-ai-s-progress-accelerates</guid>
       <pubDate>Mon, 07 Sep 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sunday Special: The sounds of the Jurassic forest</title>
-      <link>https://www.superhuman.ai/p/sunday-special-the-sounds-of-the-jurassic-forest</link>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-the-sounds-of-the-jurassic-forest</guid>
-      <pubDate>Sun, 06 Sep 2026 14:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
