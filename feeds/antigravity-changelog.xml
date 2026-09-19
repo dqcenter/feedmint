@@ -7,13 +7,69 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Session-scoped Remote Control, unlimited headless run timeouts, structured error reporting, and artifact text selection</title>
+      <link>https://antigravity.google/changelog#1.2.6</link>
+      <description>Introduces session-scoped Remote Control via--remote-controland/remote-control, lifts the default 5-minute timeout on headless runs, adds structuredAGY_ERRORoutput on stderr, improves word-wise navigation in the prompt editor, and fixes Remote Control workspace permission inheritance, oversized file edit storage limits, full-screen artifact text selection, queued/modelswitching, and/rewindsnapshot resolution.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.2.6-ae101ab8</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custom agent controls and keyboard navigation</title>
+      <link>https://antigravity.google/changelog#2.15.0</link>
+      <description>Custom agents can now switch off the default prompts and tools, and the agent you pick sticks with you after a reload. This release also adds Page Up, Page Down, Home, End, and Escape for moving around a conversation, speeds up switching conversations in the sidebar, and fixes a batch of settings and conversation state issues.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.15.0-f5aef951</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subagent roster prompt injection, background task names, credential invalidation handling, and thinking frame freeze fixes</title>
+      <link>https://antigravity.google/changelog#1.2.5</link>
+      <description>Introduces automatic subagent roster and instruction injection for custom Markdown agents, preserves explicit background task names across notifications and lists, cleanly clears invalidated auth credentials, and fixes interrupted command exit codes, remote cancellation indicators, artifact viewer window resizing, and frozen thinking frames.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.2.5-f50097c1</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live skill reloading, interactive model search, mid-session thought signature fixes, and self-correcting tool validation</title>
+      <link>https://antigravity.google/changelog#1.2.4</link>
+      <description>Adds/skills reloadfor live skill discovery, introduces fuzzy search and autocomplete for/model, improves OAuth scope error guidance, and resolves mid-conversation model switching errors with Gemini thinking models,search_websummarization failures, tool schema validation recovery, and daemon conversation resumption.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.2.4-50ef075d</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copy support for side questions, native backend tool-choice constraints, and subagent MCP inheritance</title>
+      <link>https://antigravity.google/changelog#1.2.3</link>
+      <description>Introduces/copy btwto copy side-question responses directly to the clipboard, translates tool-choice constraints to native backend function calling, and fixes plugin hook discovery, subagent MCP server inheritance, relative config path resolution, and premature proactive feedback prompts.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.2.3-fd07142f</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New Permissions System &amp; Terminal and Git version control for Enterprise</title>
       <link>https://antigravity.google/changelog#2.14.0</link>
       <description>Enterprise and Business accounts can now use the integrated terminal and Git version control in the sidebar. This release also cuts memory use in long conversations and fixes a range of stability and accessibility issues.</description>
       <guid isPermaLink="false">antigravity-changelog-2.14.0-5a3cc6c6</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conversation compaction controls, forward-looking budget scopes, and tool output token truncation</title>
+      <link>https://antigravity.google/changelog#0.1.17</link>
+      <description>This release introduces first-class conversation compaction controls viaCompactionConfig, delta and forward-looking budget scopes for session resumption, tool output token truncation limits, and expanded arithmetic operations onUsageMetadata. It also delivers OS-level terminal sandboxing examples and automated tool wrapper reflection preservation.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.17-ca6fa867</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plugin MCP namespacing, conversation memory leak fixes, oversized file guardrails, and unsandboxed rule migration warnings</title>
+      <link>https://antigravity.google/changelog#1.2.2</link>
+      <description>Enhances startup migration diagnostics for unsandboxed permission rules, speeds up/resumewith stale caches, automatically namespaces plugin MCP servers to avoid collision, resolves step-cache goroutine leaks, and fixes critical issues with Gemini API thinking block retention, oversized binary file loading, artifact reviews, and database cleanup.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.2.2-04189331</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custom agent component exclusions, resilient model API retry handling, and conversation continuation fixes</title>
+      <link>https://antigravity.google/changelog#1.2.1</link>
+      <description>IntroducesexcludeDefaultComponentsfor custom agent Markdown definitions, adds automated exponential backoff retries for transient model API errors, improves MCP open object schema validation, and fixes issues with--continueworkspace resolution, inline terminal screen flashes, Remote Control auth display, and sandbox status indicators.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.2.1-e1a68f38</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Background service registration with remote-control, expanded half-page scrolling, and content safety reporting</title>
