@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 14:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Robotics Special: Figure drops Helix 2.5</title>
+      <link>https://www.superhuman.ai/p/robotics-special-figure-drops-helix-2-5</link>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-figure-drops-helix-2-5</guid>
+      <pubDate>Sat, 19 Sep 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI incident report or science fiction?</title>
       <link>https://www.superhuman.ai/p/openai-incident-report-or-science-fiction</link>
@@ -68,13 +74,6 @@
       <description>ALSO: How to build and activate a new marketing audience in under 10 minutes</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/apple-s-biggest-keynote-in-years</guid>
       <pubDate>Thu, 10 Sep 2026 11:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big releases and bigger controversies</title>
-      <link>https://www.superhuman.ai/p/big-releases-and-bigger-controversies</link>
-      <description>ALSO: Turn meeting notes into project plans with GPT-6 Astra</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/big-releases-and-bigger-controversies</guid>
-      <pubDate>Wed, 09 Sep 2026 11:02:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
