@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Windows sandbox support</title>
+      <link>https://antigravity.google/changelog#2.15.1</link>
+      <description>This release introduces file and network sandboxing on Windows.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.15.1-f1947d6f</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Session-scoped Remote Control, unlimited headless run timeouts, structured error reporting, and artifact text selection</title>
       <link>https://antigravity.google/changelog#1.2.6</link>
