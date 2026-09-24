@@ -7,13 +7,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Direct subagent messaging syntax, Vim numeric count multipliers, headless lifecycle handling, and concurrency fixes</title>
+      <link>https://antigravity.google/changelog#1.2.9</link>
+      <description>Introduces direct@prompt syntax with interactive autocomplete, adds Vim count multipliers across Normal and Visual modes, enhances headless execution lifecycle and task timeout handling, and fixes file-lock concurrency issues in conversation history databases along with streaming response stability fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.2.9-65b5716b</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proportional context compaction budgets, full-window sizing, custom model media support, and leak fixes</title>
+      <link>https://antigravity.google/changelog#1.2.8</link>
+      <description>Improves context compaction by spreading user-request budgets proportionally across all prompts and sizing truncation ceilings from the model's full context window, enables default PDF and audio support for custom models, routesCtrl+Geditor launches to a real terminal stdout, caps voice dictation recordings to avoid deadline failures, and resolves resource and memory leaks across conversations and background pollers.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.2.8-2729952e</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Windows Subsystem for Linux, Office attachments, and live subagent cards</title>
       <link>https://antigravity.google/changelog#2.16.0</link>
       <description>Connect to a Windows Subsystem for Linux distribution from Application Settings, and drop Word, Excel, and PowerPoint files straight into a prompt. Subagents now appear as live cards you can follow and stop while they work. This release also adds right-click copy and save for images.</description>
       <guid isPermaLink="false">antigravity-changelog-2.16.0-399e05b6</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plan before you build</title>
+      <link>https://antigravity.google/changelog#2.17.0</link>
+      <description>Type/planand the agent drafts a plan you can read and edit before it writes any code. The Agent setting that governs this is now called Plan Review Policy, and you can set it to review every plan, review only when the agent judges it worthwhile, or skip review entirely.</description>
+      <guid isPermaLink="false">antigravity-changelog-2.17.0-f0d53ae3</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Local model support with LiteRT and LocalOpenAI, standardized evaluation presets, and custom subagent models</title>
+      <link>https://antigravity.google/changelog#0.1.18</link>
+      <description>This release announces official Antigravity SDK local model support with first-classLiteRTAgentConfigandLocalOpenAIAgentConfigconfigurations, introduces a standardized evaluation preset (AgentConfig.eval()) for core coding evaluations, enables custom subagent model overrides, turns on thescheduletool by default across standard tool groups, and pairs background task management with command execution.</description>
+      <guid isPermaLink="false">antigravity-changelog-0.1.18-c30aec47</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inline Kitty graphics for math and Mermaid diagrams, interactive ask_question navigation, dedicated rule token budgets, and 30s retry backoff</title>
+      <link>https://antigravity.google/changelog#1.2.7</link>
+      <description>Introduces inline Kitty graphics rendering for LaTeX math and Mermaid diagrams in the artifact detail viewer with ASCII fallback and horizontal panning, interactive question navigation with write-in previews inask_question, dedicated 20,000-token rule budgets to prevent customization eviction, and caps model retry backoff at 30 seconds, alongside plugin lifecycle hardening, Bubble Tea v2.0.9 upgrades, and headless background task logging.</description>
+      <guid isPermaLink="false">antigravity-changelog-1.2.7-5fdff37f</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windows sandbox support</title>
