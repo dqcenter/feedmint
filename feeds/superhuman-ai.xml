@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 11:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:02:57 +0000</lastBuildDate>
+    <item>
+      <title>Google's first AI satellite launch is next week</title>
+      <link>https://www.superhuman.ai/p/google-s-first-ai-satellite-launch-is-next-week</link>
+      <description>ALSO: How to clean messy spreadsheet exports with Claude Opus 5.5</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/google-s-first-ai-satellite-launch-is-next-week</guid>
+      <pubDate>Fri, 25 Sep 2026 11:02:57 +0000</pubDate>
+    </item>
     <item>
       <title>Meta surprises everyone with an AI device for Muse</title>
       <link>https://www.superhuman.ai/p/meta-surprises-everyone-with-an-ai-device-for-muse</link>
@@ -68,13 +75,6 @@
       <description>ALSO: How to turn your inbox into an automatic action list with Grok Bot</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/chatgpt-s-co-inventor-drops-a-model-that-can-t-hallucinate</guid>
       <pubDate>Wed, 16 Sep 2026 11:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>The sovereign AI race is on</title>
-      <link>https://www.superhuman.ai/p/the-sovereign-ai-race-is-on</link>
-      <description>ALSO: How to build a personal research assistant with Claude</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/the-sovereign-ai-race-is-on</guid>
-      <pubDate>Tue, 15 Sep 2026 11:02:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
