@@ -7,7 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:02:57 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft Copilot gets its biggest overhaul yet</title>
+      <link>https://www.superhuman.ai/p/microsoft-copilot-gets-its-biggest-overhaul-yet</link>
+      <description>ALSO: How to create an interview kit from a job description with Claude</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/microsoft-copilot-gets-its-biggest-overhaul-yet</guid>
+      <pubDate>Mon, 28 Sep 2026 11:02:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sunday Special: Joby claims first fully autonomous flight across the US</title>
+      <link>https://www.superhuman.ai/p/sunday-special-joby-claims-first-fully-autonomous-flight-across-the-us</link>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-joby-claims-first-fully-autonomous-flight-across-the-us</guid>
+      <pubDate>Sun, 27 Sep 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Robotics Special: Amazon invests $100M in robot manufacturing</title>
       <link>https://www.superhuman.ai/p/robotics-special-amazon-invests-100m-in-robot-manufacturing</link>
@@ -60,20 +73,6 @@
       <link>https://www.superhuman.ai/p/robotics-special-figure-drops-helix-2-5</link>
       <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-figure-drops-helix-2-5</guid>
       <pubDate>Sat, 19 Sep 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI incident report or science fiction?</title>
-      <link>https://www.superhuman.ai/p/openai-incident-report-or-science-fiction</link>
-      <description>ALSO: How to turn product photos into campaigns with ChatGPT</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/openai-incident-report-or-science-fiction</guid>
-      <pubDate>Fri, 18 Sep 2026 11:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude gets 2 new features &amp; a simpler platform</title>
-      <link>https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform</link>
-      <description>ALSO: How to build an AI HR assistant that answers queries instantly</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform</guid>
-      <pubDate>Thu, 17 Sep 2026 11:02:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
