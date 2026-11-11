@@ -26,7 +26,7 @@ permissions:
 
 jobs:
   discover:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04 # pinned: Chromium install fails on ubuntu-latest since 2026-09-29
     outputs:
       slugs: ${{ steps.list.outputs.slugs }}
     steps:
@@ -50,7 +50,7 @@ jobs:
 
   build:
     needs: discover
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04 # pinned: Chromium install fails on ubuntu-latest since 2026-09-29
     strategy:
       fail-fast: false # one bad source must not cancel the others
       matrix:
@@ -63,7 +63,19 @@ jobs:
           cache: pip
       - name: Install dependencies
         run: pip install -r requirements.txt
+      - name: Look up source tier
+        id: tier
+        run: |
+          python - <<'PY'
+          import os, yaml
+          src = {s["slug"]: s for s in yaml.safe_load(open("sources.yml"))["sources"]}
+          tier = src["${{ matrix.slug }}"].get("tier", "static")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"tier={tier}\n")
+          print("tier:", tier)
+          PY
       - name: Install Chromium (dynamic tier)
+        if: steps.tier.outputs.tier == 'dynamic'
         run: python -m playwright install --with-deps chromium
       - name: Build feed
         run: python build.py --source "${{ matrix.slug }}"
@@ -78,7 +90,7 @@ jobs:
   commit:
     needs: build
     if: always() # commit the feeds that succeeded even if some sources failed
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04 # pinned: Chromium install fails on ubuntu-latest since 2026-09-29
     permissions:
       contents: write
     steps:
