@@ -32,17 +32,17 @@
 
 sources:
   - slug: antigravity-changelog
-    tier: dynamic
-    url: https://antigravity.google/changelog
+    tier: static
+    url: https://antigravity.google/docs/changelog
     feed:
       title: "Google Antigravity — Changelog"
-      link: https://antigravity.google/changelog
+      link: https://antigravity.google/docs/changelog
       description: "Release notes and changelog for Google Antigravity, minted by feedmint."
       language: en
-    # Custom parser: the changelog is an alternating version/description grid
-    # with no per-entry container and no permalinks. See parsers/antigravity.py.
+    # Custom parser: one article.release-entry per release per product tab
+    # (moved to the server-rendered /docs/changelog ~2026-10, so static tier
+    # now; the old /changelog JS grid is gone). See parsers/antigravity.py.
     parser: antigravity
-    wait_for: "section.special-grid"
 
   - slug: antigravity-blog
     tier: dynamic

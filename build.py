@@ -36,7 +36,7 @@ from urllib.parse import urljoin
 
 import yaml
 from feedgen.feed import FeedGenerator
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser as HTMLParser
 
 from core import BuildError, Item, parse_date
 
