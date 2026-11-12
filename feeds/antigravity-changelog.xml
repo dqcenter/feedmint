@@ -9,6 +9,13 @@
     <language>en</language>
     <lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
+      <title>Eclipse 1.1.0: Terminal context in chat, changelog viewer menu, external link handling, and editor persistence fixes</title>
+      <link>https://antigravity.google/docs/changelog#rel-eclipse-1.1.0</link>
+      <description>Introduces terminal context referencing in chat conversations, external link navigation from extension views, a dedicated changelog viewer, and key stability fixes across theme switching and editor persistence.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-eclipse-1.1.0</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CLI 1.5.4: Auto mode for ACP sessions, enriched hook JSON input, faster sandbox reviews, and stability fixes</title>
       <link>https://antigravity.google/docs/changelog#rel-cli-1.5.4</link>
       <description>Antigravity CLI 1.5.4 introduces Auto mode support for ACP editor sessions, expands hook JSON payloads with event metadata, speeds up Auto mode command reviews, and resolves stability issues across subagents, conversation paging, and authentication.</description>
@@ -28,6 +35,20 @@
       <description>Gemini 4 Carbon is our strongest model for long-horizon software engineering, knowledge work, scientific discovery, and cybersecurity.</description>
       <guid isPermaLink="false">antigravity-changelog-models-gemini-4-carbon</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 1.0.261109.0: Voice-to-text input support, smoother sign-in flow, and update and gateway reliability improvements.</title>
+      <link>https://antigravity.google/docs/changelog#rel-visual-studio-1.0.261109.0</link>
+      <description>Introduces voice-to-text input support in Visual Studio and improves sign-in, update, and gateway reliability.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-visual-studio-1.0.261109.0</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VS Code 1.12.0: Background update checks, instant startup, remote sign-in port forwarding, and Windows recovery fixes</title>
+      <link>https://antigravity.google/docs/changelog#rel-vscode-1.12.0</link>
+      <description>Introduces background update checks with instant backend startup, adds automatic port tunneling for remote sign-in and in-conversation search shortcuts, and resolves Windows notification routing and background recovery issues.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-vscode-1.12.0</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hub 2.30.0: Knowledge Work interface and a setup tailored to your work</title>
