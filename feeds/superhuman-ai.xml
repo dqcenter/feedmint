@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:02:57 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic brings Claude into your video calls</title>
+      <link>https://www.superhuman.ai/p/anthropic-brings-claude-into-your-video-calls</link>
+      <description>ALSO: How to dictate anywhere on your device with Wispr Flow</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/anthropic-brings-claude-into-your-video-calls</guid>
+      <pubDate>Fri, 13 Nov 2026 12:02:57 +0000</pubDate>
+    </item>
     <item>
       <title>Ex-Googler unveils an AI-first phone</title>
       <link>https://www.superhuman.ai/p/ex-googler-unveils-an-ai-first-phone</link>
@@ -70,13 +77,6 @@
       <description>ALSO: How to create an impossible stunt video starring yourself with Seedance 2.5</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/netflix-launches-ai-discover-to-make-finding-new-movies-easier</guid>
       <pubDate>Wed, 04 Nov 2026 12:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek's customization skills ramp up pressure on US labs</title>
-      <link>https://www.superhuman.ai/p/deepseek-s-customization-skills-ramp-up-pressure-on-us-labs</link>
-      <description>ALSO: How to create a daily brand pulse from X with Grok Bot</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/deepseek-s-customization-skills-ramp-up-pressure-on-us-labs</guid>
-      <pubDate>Tue, 03 Nov 2026 12:02:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,12 +7,75 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>IDE 2.7.0: Clickable terminal context pills, quick-access menus, clearer diff review commands, and multi-window sign-in sync</title>
+      <link>https://antigravity.google/docs/changelog#rel-ide-2.7.0</link>
+      <description>Terminal selections now become clickable context pills in the Agent panel, new menus put Antigravity actions one click away, and diff review commands now say which changes they apply to. This release also fixes several diff review, Auto Save, and sign-in issues.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-ide-2.7.0</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CLI 1.5.7: Default Agent Mode set to Auto, UI freeze fixes, and improved permission enforcement.</title>
+      <link>https://antigravity.google/docs/changelog#rel-cli-1.5.7</link>
+      <description>Antigravity CLI 1.5.7 sets the default Agent Mode to Auto and resolves multiple issues including UI freezes during long output rendering, Windows browser sign-in failures, enterprise gateway compatibility for Gemini 4 Carbon, and strict enforcement of admin permission policies.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-cli-1.5.7</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model launch: Gemini 4 Hydrogen</title>
+      <link>https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity</link>
+      <description>Gemini 4 Hydrogen brings fast, dependable coding and agentic execution across four reasoning effort levels, alongside Orchestrator for dynamic multi-model planning and execution with Gemini 4 Carbon.</description>
+      <guid isPermaLink="false">antigravity-changelog-models-gemini-4-hydrogen</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CLI 1.5.6: Swarm board visuals, smarter Auto mode sandbox checks, Stop hook continuation, and gateway fixes</title>
+      <link>https://antigravity.google/docs/changelog#rel-cli-1.5.6</link>
+      <description>Antigravity CLI 1.5.6 adds bee visuals to/swarm board,continuation_activetracking for Stop hooks, thought circulation controls for enterprise gateway models, and refined Auto mode sandbox checks alongside fixes for plugin installation, prompt undo cursor placement, and gateway tool calling.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-cli-1.5.6</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hub 2.31.1: Gemini Enterprise sign-in fix on Windows</title>
+      <link>https://antigravity.google/docs/changelog#rel-hub-2.31.1</link>
+      <description>This release fixes Gemini Enterprise sign-in on Windows for Workforce Identity Federation accounts, which could lose the selected license and fail requests.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-hub-2.31.1</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hub 2.31.2: Gemini 4 Carbon when you sign in with Google Cloud credentials</title>
+      <link>https://antigravity.google/docs/changelog#rel-hub-2.31.2</link>
+      <description>This release adds Gemini 4 Carbon to the model selector when you sign in with Google Cloud application default credentials.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-hub-2.31.2</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Eclipse 1.1.0: Terminal context in chat, changelog viewer menu, external link handling, and editor persistence fixes</title>
       <link>https://antigravity.google/docs/changelog#rel-eclipse-1.1.0</link>
       <description>Introduces terminal context referencing in chat conversations, external link navigation from extension views, a dedicated changelog viewer, and key stability fixes across theme switching and editor persistence.</description>
       <guid isPermaLink="false">antigravity-changelog-rel-eclipse-1.1.0</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xcode 1.5.0: Multi-root workspace support, per-turn token breakdowns, expanded model options, and MCP tool and sign-in fixes</title>
+      <link>https://antigravity.google/docs/changelog#rel-xcode-1.5.0</link>
+      <description>Introduces multi-root workspace support and per-turn token usage breakdowns, expands available model options, and resolves MCP tool attribution and Linux sign-in issues.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-xcode-1.5.0</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zed 1.5.0: Multi-root workspace support, per-turn token breakdowns, expanded model options, and MCP tool and sign-in fixes</title>
+      <link>https://antigravity.google/docs/changelog#rel-zed-1.5.0</link>
+      <description>Introduces multi-root workspace support and per-turn token usage breakdowns, expands available model options, and resolves MCP tool attribution and Linux sign-in issues.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-zed-1.5.0</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JetBrains 1.5.0: Multi-root workspace support, per-turn token breakdowns, expanded model options, and MCP tool and sign-in fixes</title>
+      <link>https://antigravity.google/docs/changelog#rel-jetbrains-1.5.0</link>
+      <description>Introduces multi-root workspace support and per-turn token usage breakdowns, expands available model options, and resolves MCP tool attribution and Linux sign-in issues.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-jetbrains-1.5.0</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
