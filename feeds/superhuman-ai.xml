@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:02:57 +0000</lastBuildDate>
+    <item>
+      <title>160,000+ supporters call for Jensen Huang to be reinstated</title>
+      <link>https://www.superhuman.ai/p/160-000-supporters-call-for-jensen-huang-to-be-reinstated</link>
+      <description>ALSO: How to find and fix your biggest cloud and AI security risks</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/160-000-supporters-call-for-jensen-huang-to-be-reinstated</guid>
+      <pubDate>Mon, 16 Nov 2026 12:02:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sunday Special: Catching rockets and sinking ships</title>
+      <link>https://www.superhuman.ai/p/sunday-special-catching-rockets-and-sinking-ships</link>
+      <description>Keep up with the latest AI news, trends, and tools in just 3 minutes a day. Join 1,500,000+ professionals.</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-catching-rockets-and-sinking-ships</guid>
+      <pubDate>Sun, 15 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Robotics Special: Amazon drops a flying security camera</title>
       <link>https://www.superhuman.ai/p/robotics-special-amazon-drops-a-flying-security-camera</link>
@@ -63,20 +77,6 @@
       <description>Keep up with the latest AI news, trends, and tools in just 3 minutes a day. Join 1,500,000+ professionals.</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-xiaomi-s-humanoid-robots-clock-in-for-a-full-8-hour-factory-shift</guid>
       <pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude gets personal finance skills</title>
-      <link>https://www.superhuman.ai/p/claude-gets-personal-finance-skills</link>
-      <description>ALSO: How to build a working mobile app with Claude</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/claude-gets-personal-finance-skills</guid>
-      <pubDate>Fri, 06 Nov 2026 12:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT gets GIFs &amp; a new startup creates lifelike avatars</title>
-      <link>https://www.superhuman.ai/p/chatgpt-gets-gifs-a-new-startup-creates-lifelike-avatars</link>
-      <description>ALSO: How to build an on-demand data analyst for your team with Grok Bot</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/chatgpt-gets-gifs-a-new-startup-creates-lifelike-avatars</guid>
-      <pubDate>Thu, 05 Nov 2026 12:02:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
