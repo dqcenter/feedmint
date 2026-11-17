@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>CLI 1.5.9: Added run_workflow tool, admin pluginControls, faster Auto mode reviews, and MCP security fixes</title>
+      <link>https://antigravity.google/docs/changelog#rel-cli-1.5.9</link>
+      <description>This release introduces the run_workflow tool for parallel subagent Python workflows and adds pluginControls to managed admin settings, alongside improvements to Auto mode reviews, /resume performance, and /browser MP4 recordings, as well as several security and reliability fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-cli-1.5.9</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>CLI 1.5.8: Gemini 4 Hydrogen &amp; Carbon models, click-to-expand in full screen mode, and security fixes.</title>
       <link>https://antigravity.google/docs/changelog#rel-cli-1.5.8</link>
@@ -20,6 +27,13 @@
       <link>https://antigravity.google/docs/changelog#rel-hub-2.32.0</link>
       <description>This release adds Dynamic Workflows, letting agents orchestrate parallel subagents and multi-step tasks in Python using the runtime bundled with the app. It also introduces Everforest Light and Dark themes, prompt navigation shortcuts, and stronger protections for agent-controlled browser tabs. It includes 11 improvements and 13 fixes.</description>
       <guid isPermaLink="false">antigravity-changelog-rel-hub-2.32.0</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hub 2.32.1: Gemini 4 Hydrogen when you sign in with Google Cloud credentials</title>
+      <link>https://antigravity.google/docs/changelog#rel-hub-2.32.1</link>
+      <description>This release adds Gemini 4 Hydrogen to the model selector when you sign in with Google Cloud application default credentials.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-hub-2.32.1</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
