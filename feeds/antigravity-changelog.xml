@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Hub 2.33.0: Connect over SSH and GitHub pull request integration</title>
+      <link>https://antigravity.google/docs/changelog#rel-hub-2.33.0</link>
+      <description>This release adds SSH host connections for running projects and agents on remote Linux machines, along with live GitHub pull request status pills, hover cards, and an Overview Pull Requests section. It also brings in-page Cmd/Ctrl+F search to the built-in browser and opens /swarm and UI plugin panels to business and enterprise accounts. It includes 16 improvements and 21 fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-hub-2.33.0</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hub 2.32.2: Multi-turn /btw side-question tabs and diagnostic logging fix</title>
+      <link>https://antigravity.google/docs/changelog#rel-hub-2.32.2</link>
+      <description>This release brings multi-turn /btw side-question tabs with read-only tool access to the Antigravity App and fixes an issue that could truncate diagnostic logs. It includes 1 improvement and 1 fix.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-hub-2.32.2</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>CLI 1.5.9: Added run_workflow tool, admin pluginControls, faster Auto mode reviews, and MCP security fixes</title>
       <link>https://antigravity.google/docs/changelog#rel-cli-1.5.9</link>
