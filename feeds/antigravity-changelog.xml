@@ -7,13 +7,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>CLI 1.5.12: Remote Control split view, Gemini 4 Neon API key support, and faster conversation forking.</title>
+      <link>https://antigravity.google/docs/changelog#rel-cli-1.5.12</link>
+      <description>Antigravity CLI 1.5.12 introduces split view in the Remote Control browser view, adds Gemini 4 Neon support when connecting with aGEMINI_API_KEY, improves/forkspeed for large conversations, and resolves several network retry, rendering, and Remote Control bugs.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-cli-1.5.12</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CLI 1.5.11: Drag-to-mention subagents, native Vim undo behavior, and remote plugin validation</title>
+      <link>https://antigravity.google/docs/changelog#rel-cli-1.5.11</link>
+      <description>This release introduces drag-to-mention for subagent tabs in the Remote Control browser view, refines Vim mode undo behavior, and expandsagy plugin validateto support.zipfiles and GitHub URLs, alongside fixes for API key quota commands, UTF-8 BOM plugin manifests, and large file uploads.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-cli-1.5.11</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model launch: Gemini 4 Neon</title>
+      <link>https://antigravity.google/blog/gemini-4-neon-in-google-antigravity</link>
+      <description>Gemini 4 Neon is now available on Google AI Ultra, Google AI Pro, and Gemini Enterprise, and it's the default model if you haven't chosen one, with four thinking levels and Orchestrator (Neon) for planning with Gemini 4 Neon and implementing with Gemini 4 Hydrogen.</description>
+      <guid isPermaLink="false">antigravity-changelog-models-gemini-4-neon</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CLI 1.5.10: Remote agent accept-edits mode, Orchestrator for Enterprise/ADC, and Remote Control updates</title>
+      <link>https://antigravity.google/docs/changelog#rel-cli-1.5.10</link>
+      <description>Version 1.5.10 adds accept-edits mode for remote agent sessions, enables the Orchestrator model for Gemini Enterprise and ADC accounts, and introduces new navigation, quoting, and overview features to the Remote Control browser view alongside memory, rate-limit, and sandbox improvements.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-cli-1.5.10</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hub 2.33.0: Connect over SSH and GitHub pull request integration</title>
       <link>https://antigravity.google/docs/changelog#rel-hub-2.33.0</link>
       <description>This release adds SSH host connections for running projects and agents on remote Linux machines, along with live GitHub pull request status pills, hover cards, and an Overview Pull Requests section. It also brings in-page Cmd/Ctrl+F search to the built-in browser and opens /swarm and UI plugin panels to business and enterprise accounts. It includes 16 improvements and 21 fixes.</description>
       <guid isPermaLink="false">antigravity-changelog-rel-hub-2.33.0</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 1.0.261116.0: Voice dictation support in the chat interface, and improved reliability when reviewing inline diffs.</title>
+      <link>https://antigravity.google/docs/changelog#rel-visual-studio-1.0.261116.0</link>
+      <description>Introduces microphone-based voice dictation in the chat interface and improves inline diff review reliability across editor sessions.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-visual-studio-1.0.261116.0</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VS Code 1.13.0: Keybinding scheme selector, standardized shortcuts, voice dictation, file attachments, and inline diff fixes</title>
+      <link>https://antigravity.google/docs/changelog#rel-vscode-1.13.0</link>
+      <description>Introduces a keybinding scheme selector inShortcutssettings with standardized commands and shortcuts, adds microphone voice dictation and Explorer file attachment actions, and resolves image download, inline diff, authentication, and layout issues.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-vscode-1.13.0</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hub 2.32.2: Multi-turn /btw side-question tabs and diagnostic logging fix</title>
