@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:02:57 +0000</lastBuildDate>
+    <item>
+      <title>A new model turns brainwaves into images</title>
+      <link>https://www.superhuman.ai/p/a-new-model-turns-brainwaves-into-images</link>
+      <description>ALSO: How to build docs during a team call with Claude Meetings</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/a-new-model-turns-brainwaves-into-images</guid>
+      <pubDate>Fri, 20 Nov 2026 12:02:57 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic's IPO lands, plus a Theranos-style startup</title>
       <link>https://www.superhuman.ai/p/anthropic-s-ipo-lands-plus-a-theranos-style-startup</link>
@@ -70,13 +77,6 @@
       <description>ALSO: How to turn your website into high-converting ads with ChatGPT</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/anthropic-takes-on-microsoft-google-with-3-new-tools</guid>
       <pubDate>Wed, 11 Nov 2026 12:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fable 5.2 is here and "almost" AGI, says  Wharton professor</title>
-      <link>https://www.superhuman.ai/p/fable-5-2-is-here-and-almost-agi-says-wharton-professor</link>
-      <description>ALSO: How to turn your data into visualizations and interactive dashboards</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/fable-5-2-is-here-and-almost-agi-says-wharton-professor</guid>
-      <pubDate>Tue, 10 Nov 2026 12:02:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

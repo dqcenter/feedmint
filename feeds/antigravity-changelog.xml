@@ -9,6 +9,20 @@
     <language>en</language>
     <lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
+      <title>IDE 2.8.0: Background update checks, instant startup, remote sign-in port forwarding, and Windows recovery fixes</title>
+      <link>https://antigravity.google/docs/changelog#rel-ide-2.8.0</link>
+      <description>This release adds recurring background update checks with instant backend startup, automatic port forwarding for remote sign-in, keyboard shortcuts to search within conversations, and custom certificate and proxy support during sign-in. It also fixes Windows logoff recovery loops, multi-window task notification routing, and unintended backend binary downgrades or re-downloads.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-ide-2.8.0</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eclipse 1.2.0: In-IDE issue reporting and retry actions, improved mid-session crash recovery, and sign-in flow reliability improvements</title>
+      <link>https://antigravity.google/docs/changelog#rel-eclipse-1.2.0</link>
+      <description>Introduces in-IDE issue reporting and recovery actions on error panels alongside reliability fixes for browser authentication and session stability.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-eclipse-1.2.0</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CLI 1.5.12: Remote Control split view, Gemini 4 Neon API key support, and faster conversation forking.</title>
       <link>https://antigravity.google/docs/changelog#rel-cli-1.5.12</link>
       <description>Antigravity CLI 1.5.12 introduces split view in the Remote Control browser view, adds Gemini 4 Neon support when connecting with aGEMINI_API_KEY, improves/forkspeed for large conversations, and resolves several network retry, rendering, and Remote Control bugs.</description>
@@ -42,6 +56,13 @@
       <description>This release adds SSH host connections for running projects and agents on remote Linux machines, along with live GitHub pull request status pills, hover cards, and an Overview Pull Requests section. It also brings in-page Cmd/Ctrl+F search to the built-in browser and opens /swarm and UI plugin panels to business and enterprise accounts. It includes 16 improvements and 21 fixes.</description>
       <guid isPermaLink="false">antigravity-changelog-rel-hub-2.33.0</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SDK 0.1.24: Default model gemini-4-hydrogen, LiteRT vision and prefix caching, and cancellation cleanup.</title>
+      <link>https://antigravity.google/docs/changelog#rel-sdk-0.1.24</link>
+      <description>Antigravity SDK v0.1.24 updates the default model to gemini-4-hydrogen and maps ThinkingLevel.EXTRA_HIGH to xhigh, expands LiteRTAgentConfig with on-device vision support, multi-turn KV prefix caching, and thought-channel streaming, and strengthens runtime reliability with deterministic subprocess and transport cleanup on cancellation, structured LocalOpenAIConnection error and usage reporting, and multi-turn state isolation.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-sdk-0.1.24</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Visual Studio 1.0.261116.0: Voice dictation support in the chat interface, and improved reliability when reviewing inline diffs.</title>
