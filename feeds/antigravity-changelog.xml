@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Hub 2.34.0: Gemini 4 Neon, MCP Apps, and more</title>
+      <link>https://antigravity.google/docs/changelog#rel-hub-2.34.0</link>
+      <description>This release brings MCP App support and Gemini 4 Neon to eligible paid consumer plans. It includes 15 improvements and 24 fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-hub-2.34.0</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>IDE 2.8.0: Background update checks, instant startup, remote sign-in port forwarding, and Windows recovery fixes</title>
       <link>https://antigravity.google/docs/changelog#rel-ide-2.8.0</link>
