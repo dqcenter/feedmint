@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Sunday Special: Pancreatic cancer wonder drug shows promising results</title>
+      <link>https://www.superhuman.ai/p/sunday-special-pancreatic-cancer-wonder-drug-shows-promising-results</link>
+      <description>Keep up with the latest AI news, trends, and tools in just 3 minutes a day. Join 1,500,000+ professionals.</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-pancreatic-cancer-wonder-drug-shows-promising-results</guid>
+      <pubDate>Sun, 22 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Robotics Special: Tesla opens limited orders for the Cybercab</title>
       <link>https://www.superhuman.ai/p/robotics-special-tesla-opens-limited-orders-for-the-cybercab</link>
@@ -70,13 +77,6 @@
       <description>ALSO: How to dictate anywhere on your device with Wispr Flow</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/anthropic-brings-claude-into-your-video-calls</guid>
       <pubDate>Fri, 13 Nov 2026 12:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ex-Googler unveils an AI-first phone</title>
-      <link>https://www.superhuman.ai/p/ex-googler-unveils-an-ai-first-phone</link>
-      <description>ALSO: How to measure your brand's AI search visibility with Conductor AI</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/ex-googler-unveils-an-ai-first-phone</guid>
-      <pubDate>Thu, 12 Nov 2026 12:02:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
