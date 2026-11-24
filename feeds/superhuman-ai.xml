@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:02:57 +0000</lastBuildDate>
+    <item>
+      <title>Jensen's back, while OpenAI matches AI experts with business owners</title>
+      <link>https://www.superhuman.ai/p/jensen-s-back-while-openai-matches-ai-experts-with-business-owners</link>
+      <description>ALSO: How to create assets for a social campaign using Adobe Firefly</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/jensen-s-back-while-openai-matches-ai-experts-with-business-owners</guid>
+      <pubDate>Tue, 24 Nov 2026 12:02:57 +0000</pubDate>
+    </item>
     <item>
       <title>AI solves one of math's hardest problems</title>
       <link>https://www.superhuman.ai/p/ai-solves-one-of-math-s-hardest-problems</link>
@@ -70,13 +77,6 @@
       <description>Keep up with the latest AI news, trends, and tools in just 3 minutes a day. Join 1,500,000+ professionals.</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-catching-rockets-and-sinking-ships</guid>
       <pubDate>Sun, 15 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robotics Special: Amazon drops a flying security camera</title>
-      <link>https://www.superhuman.ai/p/robotics-special-amazon-drops-a-flying-security-camera</link>
-      <description>Keep up with the latest AI news, trends, and tools in just 3 minutes a day. Join 1,500,000+ professionals.</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/robotics-special-amazon-drops-a-flying-security-camera</guid>
-      <pubDate>Sat, 14 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

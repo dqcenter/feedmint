@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>CLI 1.5.15: Auto-compaction threshold controls, Remote Control UI refinements, and ACP session fixes.</title>
+      <link>https://antigravity.google/docs/changelog#rel-cli-1.5.15</link>
+      <description>Antigravity CLI 1.5.15 adds customizable auto-compaction thresholds across eligible models, updates default Orchestrator thinking effort and conversation retention policies, refines the Remote Control browser view and Tokyo Night color scheme, and resolves multiple issues with ACP session handling,/configrendering warnings, and/btwside questions.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-cli-1.5.15</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hub 2.35.0: Unlimited conversation history, Conversation Management API, and HTML artifact search</title>
+      <link>https://antigravity.google/docs/changelog#rel-hub-2.35.0</link>
+      <description>This release keeps your local conversation history unlimited by default, offers a conversation management API for agents to create and manage Antigravity conversations, and adds Cmd+F search inside full-page HTML artifacts. It includes 20 improvements and 19 fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-hub-2.35.0</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CLI 1.5.14: Live thinking stream, swarm board overview, remote plan mode, and Orchestrator model controls</title>
+      <link>https://antigravity.google/docs/changelog#rel-cli-1.5.14</link>
+      <description>Antigravity CLI 1.5.14 adds/thinkingfor live thinking streaming, a liveOverviewsection in/swarm board,planmode for--remote-agentsessions, and configurablePlannerandExecutormodels for the Orchestrator, alongside security and stability fixes.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-cli-1.5.14</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hub 2.34.0: Gemini 4 Neon, MCP Apps, and more</title>
       <link>https://antigravity.google/docs/changelog#rel-hub-2.34.0</link>
@@ -34,6 +55,13 @@
       <link>https://antigravity.google/docs/changelog#rel-cli-1.5.12</link>
       <description>Antigravity CLI 1.5.12 introduces split view in the Remote Control browser view, adds Gemini 4 Neon support when connecting with aGEMINI_API_KEY, improves/forkspeed for large conversations, and resolves several network retry, rendering, and Remote Control bugs.</description>
       <guid isPermaLink="false">antigravity-changelog-rel-cli-1.5.12</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CLI 1.5.13: Gemini 4 Neon support, column-aware table selection, faster multi-step tasks, and ACP fixes.</title>
+      <link>https://antigravity.google/docs/changelog#rel-cli-1.5.13</link>
+      <description>Antigravity CLI 1.5.13 adds support for Gemini 4 Neon via ADC and enterprise model gateways, introduces column-aware mouse selection for Markdown tables, and speeds up multi-step agent tasks by batching independent operations. This release also resolves several issues across custom model configurations, non-QWERTY keyboard shortcuts, ACP editor integrations, and the Remote Control browser view.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-cli-1.5.13</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
