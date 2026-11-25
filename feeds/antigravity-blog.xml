@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Bringing MCP Apps to Antigravity</title>
+      <link>https://antigravity.google/blog/mcp-apps-in-antigravity</link>
+      <guid isPermaLink="true">https://antigravity.google/blog/mcp-apps-in-antigravity</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leveling up game development for a good cause</title>
+      <link>https://antigravity.google/blog/leveling-up-game-development-for-a-good-cause</link>
+      <guid isPermaLink="true">https://antigravity.google/blog/leveling-up-game-development-for-a-good-cause</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Expanding the Antigravity Plugin Ecosystem</title>
       <link>https://antigravity.google/blog/plugin-ecosystem-momentum</link>
@@ -43,18 +55,6 @@
       <link>https://antigravity.google/blog/modernizing-40-year-old-scientific-code-with-gemini-4-argon</link>
       <guid isPermaLink="true">https://antigravity.google/blog/modernizing-40-year-old-scientific-code-with-gemini-4-argon</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plugin Marketplace in Antigravity</title>
-      <link>https://antigravity.google/blog/plugin-marketplace-in-antigravity</link>
-      <guid isPermaLink="true">https://antigravity.google/blog/plugin-marketplace-in-antigravity</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Gemini 4 Argon Upleveled Agents on Antigravity: Trillion-Edge Graphs and Custom TPU Kernels</title>
-      <link>https://antigravity.google/blog/gemini-4-argon-trillion-edge-graphs-and-tpu-kernels</link>
-      <guid isPermaLink="true">https://antigravity.google/blog/gemini-4-argon-trillion-edge-graphs-and-tpu-kernels</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

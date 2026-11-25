@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>CLI 1.5.16: Live step checklist,-rresume alias,~/.agents/skillsdiscovery, and Auto mode updates.</title>
+      <link>https://antigravity.google/docs/changelog#rel-cli-1.5.16</link>
+      <description>Version 1.5.16 introduces a live step checklist during multi-step turns,-rand--resumeCLI flags, discovery of user-global skills in~/.agents/skills, and refined Auto mode permissions, alongside several fixes for macOS SSH keychain sign-in,agy acpsubagent prompts, and Remote Control voice dictation.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-cli-1.5.16</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hub 2.35.1: Resume conversations after restart, auto-opening plugin panels, and compressed diagnostic uploads</title>
+      <link>https://antigravity.google/docs/changelog#rel-hub-2.35.1</link>
+      <description>This release automatically resumes active conversations after an app restart or update, opens plugin panel links directly in the side panel, and compresses background diagnostic uploads to reduce upload bandwidth while capping upload batch sizes. It includes 2 improvements and 1 fix.</description>
+      <guid isPermaLink="false">antigravity-changelog-rel-hub-2.35.1</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>CLI 1.5.15: Auto-compaction threshold controls, Remote Control UI refinements, and ACP session fixes.</title>
       <link>https://antigravity.google/docs/changelog#rel-cli-1.5.15</link>

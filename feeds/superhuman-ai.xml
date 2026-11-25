@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>feedmint</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:02:57 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic lets you build custom Mac or PC apps with Claude</title>
+      <link>https://www.superhuman.ai/p/anthropic-lets-you-build-custom-mac-or-pc-apps-with-claude</link>
+      <description>ALSO: How to create a live team dashboard in ChatGPT</description>
+      <guid isPermaLink="true">https://www.superhuman.ai/p/anthropic-lets-you-build-custom-mac-or-pc-apps-with-claude</guid>
+      <pubDate>Wed, 25 Nov 2026 12:02:57 +0000</pubDate>
+    </item>
     <item>
       <title>Jensen's back, while OpenAI matches AI experts with business owners</title>
       <link>https://www.superhuman.ai/p/jensen-s-back-while-openai-matches-ai-experts-with-business-owners</link>
@@ -70,13 +77,6 @@
       <description>ALSO: How to find and fix your biggest cloud and AI security risks</description>
       <guid isPermaLink="true">https://www.superhuman.ai/p/160-000-supporters-call-for-jensen-huang-to-be-reinstated</guid>
       <pubDate>Mon, 16 Nov 2026 12:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sunday Special: Catching rockets and sinking ships</title>
-      <link>https://www.superhuman.ai/p/sunday-special-catching-rockets-and-sinking-ships</link>
-      <description>Keep up with the latest AI news, trends, and tools in just 3 minutes a day. Join 1,500,000+ professionals.</description>
-      <guid isPermaLink="true">https://www.superhuman.ai/p/sunday-special-catching-rockets-and-sinking-ships</guid>
-      <pubDate>Sun, 15 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
